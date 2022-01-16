@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8r9kCQOeZ9p0tNebig5lg6AuDtHK8jpm9v1ZyIU0/Z8DNDVwOKDZ+3QyNFNlcqhvze549Z9Hz5ycVHwGOCOdyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\david\\Desktop\\PacktPublishing\\Cloud-Computing-Essentials-Beg\\Allfiles\\Chapter2\\dockerFileExample\\dockerFileExample\\dockerFileExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
