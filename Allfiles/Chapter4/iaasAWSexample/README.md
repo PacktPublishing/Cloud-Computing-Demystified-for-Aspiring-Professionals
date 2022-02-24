@@ -27,8 +27,7 @@ example output: Fast Lane rocks!
 
 ### Initial Configuration
 
-Some projects require initial configuration.
-This is the section where you would document those requirements.
+Installs and deploys a web server on to Amazon EC2 instances in an Auto Scaling group with a multi-AZ Amazon RDS database instance for storage.
 
 
 
@@ -37,6 +36,7 @@ This is the section where you would document those requirements.
 Here's a brief intro about what a developer must do in order to start developing
 the project further:
 
+Sample solutions templates show you how to create an end-to-end solution with AWS CloudFormation templates.
 ``` code to automate or manual task
 <place holder> Example: System.Console.WriteLine("Fast Lane rocks!");
 ```
