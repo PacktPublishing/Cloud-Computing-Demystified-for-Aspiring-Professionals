@@ -43,9 +43,14 @@ Sample solutions templates show you how to create an end-to-end solution with AW
 
 And state what happens step-by-step.
 
-1. <place holder>
-2. <place holder>
-3. <place holder>
+1. Clone repo using git to either a local or remote repo, such as AWS Cloud 9 or cloud shell.
+2. Review JSON template, and params.
+3. Import JSON template to AWS Cloudformation designer.
+4. Validate template.
+5. Deploy template.
+6. Update template paramater values during deployment configuration utilizing AWS management portal.
+7. Review and deploy.
+8. If you encounter an error, please post bugs or any feedback using Github issues.
 
 ### Building
 
