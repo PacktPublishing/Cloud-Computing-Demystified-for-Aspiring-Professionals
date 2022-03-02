@@ -54,8 +54,8 @@ Provide unique parameter values
 In case there's some step you have to take that publishes this project to a
 server, this is the right time to state it.
 
-Deploy using cloudformation
-Explain what the previous code actually does.
+>> Deploy using cloudformation
+>> Explain what the previous code actually does.
 
 ## Features
 
