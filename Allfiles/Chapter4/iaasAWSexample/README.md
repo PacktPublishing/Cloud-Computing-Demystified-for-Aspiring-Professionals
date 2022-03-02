@@ -17,89 +17,51 @@ Initial repo during beta dev
 
 A quick introduction of the minimal setup you need to get started.
 
-```code to automate or manual task
-<place holder> Example: System.Console.WriteLine("Fast Lane rocks!");
-```
+1. Visitors can clone the repo or download seperately the sample template to a local machine.
+    a. Sample solutions templates show you how to create an end-to-end solution with common applications.
+2. Create an AWS account.
+    a. Use an existing AWS account.
+3. Review how to create a cloudformation stack.
+4. Import the template labeled iaasAmazonDeploy.json from ~/Allfiles/Chapter4/iaasAWSexample/
+    
 
 what actually happens when you execute.
 
-example output: Fast Lane rocks!
+Installs and deploys a web application on to Amazon EC2 instances in an Auto Scaling group with a multi-AZ
 
 ### Initial Configuration
 
-Installs and deploys a web server on to Amazon EC2 instances in an Auto Scaling group with a multi-AZ Amazon RDS database instance for storage.
+1. AWS account is required.
 
 
 
 ## Developing
 
-Here's a brief intro about what a developer must do in order to start developing
-the project further:
+2. Master cloudformation
 
-Sample solutions templates show you how to create an end-to-end solution with AWS CloudFormation templates.
-``` code to automate or manual task
-<place holder> Example: System.Console.WriteLine("Fast Lane rocks!");
-```
-
-And state what happens step-by-step.
-
-1. Clone repo using git to either a local or remote repo, such as AWS Cloud 9 or cloud shell.
-2. Review JSON template, and params.
-3. Import JSON template to AWS Cloudformation designer.
-4. Validate template.
-5. Deploy template.
-6. Update template paramater values during deployment configuration utilizing AWS management portal.
-7. Review and deploy.
-8. If you encounter an error, please post bugs or any feedback using Github issues.
+This example does not include step-by-step instructions. 
+Readers are recommended to return and attempt recreating these examples after they have read the cloud computing essentials for beginners book.
 
 ### Building
 
 If your project needs some additional steps for the developer to build the
 project after some code changes, state them here:
 
-```code to automate or manual task
-<place holder> Example: System.Console.WriteLine("Fast Lane rocks!");
-```
-
+Provide unique parameter values
 
 ### Deploying / Publishing
 
 In case there's some step you have to take that publishes this project to a
 server, this is the right time to state it.
 
-```code to automate or manual task
-<place holder> Example: System.Console.WriteLine("Fast Lane rocks!");
-```
+>> Deploy using cloudformation
 
-Explain what the previous code actually does.
 
 ## Features
 
 What can the features for this project accomplish?
 * What's the main functionality
-1. <place holder>
-
-## Configuration
-
-Here you should write what are all of the configurations a user can enter when
-using the project.
-
-#### Argument 1
-Type: `String`
-Default: `'default value'`
-
-State what an argument does and how you can use it. If needed, you can provide
-an example below.
-
-Example:
-code to automate or manual task
-<place holder> Example: System.Console.WriteLine("Fast Lane rocks!");
-
-#### Argument 2
-Type: `Number|Boolean`
-Default: 100
-
-Copy-paste as many of these as you need.
+AWS CloudFormation provides a common language to describe and provision all the infrastructure resources in your environment in a safe, repeatable way.
 
 ## Contributing
 
@@ -118,9 +80,9 @@ Even though this information can be found inside the project on machine-readable
 format like in a .json file, it's good to include a summary of most useful
 links to humans using your project. You can include links like:
 
-- Project homepage: <place holder>
-- Repository: <place holder>
-- Issue tracker: <place holder>
+- Project homepage: https://github.com/PacktPublishing/Cloud-Computing-for-Beginners
+- Repository: https://github.com/PacktPublishing/Cloud-Computing-for-Beginners
+- Issue tracker: https://github.com/PacktPublishing/Cloud-Computing-for-Beginners
   - In case of sensitive bugs like security vulnerabilities, please contact
     david3651@live.com directly instead of using issue tracker. We value your effort
     to improve the security and privacy of this project!
