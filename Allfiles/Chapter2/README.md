@@ -15,31 +15,27 @@ Initial repo during beta dev
 
 ## Installing / Getting started
 
-A quick introduction of the minimal setup you need to get started.
+>A quick introduction of the minimal setup you need to get started.
 
-```code to automate or manual task
-<place holder> Example: System.Console.WriteLine("No logo, No Ego, Amazon, Microsoft, and Google rock!");
-```
+>>1.Clone repo or download files to a local or remote machine.
+>>2.Visual Studio 2019 or later.
 
-what actually happens when you execute.
-
-example output: No logo, No Ego, Amazon, Microsoft, and Google rock!
 
 ### Initial Configuration
 
 Some projects require initial configuration.
 This is the section where you would document those requirements.
-
-
-
+1. Review how to install Docker for your operating system.
+2. Please install or update docker on your local machine.
 ## Developing
 
 Here's a brief intro about what a developer must do in order to start developing
 the project further:
+1. Open solution file using Visual Studio.
+2. Build Solution.
+3. Run with or without debugging using Visual Studio.
 
->>This chapter does not include any training examples requiring development.
-
-
+Note: This example is soley intended to demonstrate a visual example of a docker container and its artitfacts, in particular the docker file.
 
 ## Contributing
 
