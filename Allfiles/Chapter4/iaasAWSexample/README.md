@@ -23,7 +23,7 @@ A quick introduction of the minimal setup you need to get started.
     a. Use an existing AWS account.
 3. Review how to create a cloudformation stack.
 4. Import the template labeled iaasAmazonDeploy.json from ~/Allfiles/Chapter4/iaasAWSexample/
-    
+
 
 what actually happens when you execute.
 
@@ -39,7 +39,7 @@ Installs and deploys a web application on to Amazon EC2 instances in an Auto Sca
 
 2. Master cloudformation
 
-This example does not include step-by-step instructions. 
+This example does not include step-by-step instructions.
 Readers are recommended to return and attempt recreating these examples after they have read the cloud computing essentials for beginners book.
 
 ### Building
@@ -62,6 +62,10 @@ server, this is the right time to state it.
 What can the features for this project accomplish?
 * What's the main functionality
 AWS CloudFormation provides a common language to describe and provision all the infrastructure resources in your environment in a safe, repeatable way.
+
+### Architecting
+> Optionally readers can design a cloud computing architecture similar to examples illustrated in the book.
+>> Readers can use the pptx, powerpoint file and architecting icons located in this directory to support diagramming a cloud computing IaaS resource.
 
 ## Contributing
 
