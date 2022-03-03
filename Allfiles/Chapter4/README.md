@@ -17,84 +17,27 @@ Initial repo during beta dev
 
 A quick introduction of the minimal setup you need to get started.
 
-```code to automate or manual task
-<place holder> Example: System.Console.WriteLine("Fast Lane rocks!");
-```
-
-what actually happens when you execute.
-
-example output: Fast Lane rocks!
-
-### Initial Configuration
-
-Some projects require initial configuration.
-This is the section where you would document those requirements.
-
-
+Infrastructure as a service industry examples
+1. Health & Sciences
+2. Financial services
+3. Retail
 
 ## Developing
+1. Amazon Web Services IaaS solution for Moderna Therapeutics.
+2. Microsoft Azure IaaS soltuion for Albertsons.
+3. Google Cloud Platform IaaS soltion for PayPal.
 
-Here's a brief intro about what a developer must do in order to start developing
-the project further:
+Note: All industry examples are curated from one or more chosen service resources and used soley as reading examples for training purposes. More importantly, these are examples not the actual solution from either organization.
 
-``` code to automate or manual task
-<place holder> Example: System.Console.WriteLine("Fast Lane rocks!");
-```
-
-And state what happens step-by-step.
-
-1. <place holder>
-2. <place holder>
-3. <place holder>
-
-### Building
-
-If your project needs some additional steps for the developer to build the
-project after some code changes, state them here:
-
-```code to automate or manual task
-<place holder> Example: System.Console.WriteLine("Fast Lane rocks!");
-```
-
-
-### Deploying / Publishing
-
-In case there's some step you have to take that publishes this project to a
-server, this is the right time to state it.
-
-```code to automate or manual task
-<place holder> Example: System.Console.WriteLine("Fast Lane rocks!");
-```
-
-Explain what the previous code actually does.
-
-## Features
-
-What can the features for this project accomplish?
-* What's the main functionality
-1. <place holder>
-
-## Configuration
+## Configuration artifacts
 
 Here you should write what are all of the configurations a user can enter when
 using the project.
 
-#### Argument 1
-Type: `String`
-Default: `'default value'`
-
-State what an argument does and how you can use it. If needed, you can provide
-an example below.
-
-Example:
-code to automate or manual task
-<place holder> Example: System.Console.WriteLine("Fast Lane rocks!");
-
-#### Argument 2
-Type: `Number|Boolean`
-Default: 100
-
-Copy-paste as many of these as you need.
+Chapter 4 includes directories and files required to create common industry examples.
+1. iaasAWSexample
+2. iaasAZUREexample
+3. iaasGCPexample
 
 ## Contributing
 
