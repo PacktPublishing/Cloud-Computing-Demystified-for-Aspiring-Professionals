@@ -17,7 +17,56 @@ Initial repo during beta dev
 
 A quick introduction of the minimal setup you need to get started.
 
-This chapter does not include example solutions therefore no engineering instructions are provided.
+```code to automate or manual task
+<place holder> Example: System.Console.WriteLine("No logo, No Ego, Amazon, Microsoft, and Google rock!");
+```
+
+what actually happens when you execute.
+
+example output: No logo, No Ego, Amazon, Microsoft, and Google rock!
+
+### Initial Configuration
+
+Some projects require initial configuration.
+This is the section where you would document those requirements.
+
+
+
+## Developing
+
+Here's a brief intro about what a developer must do in order to start developing
+the project further:
+
+>>This chapter does not include any training examples requiring development.
+
+
+
+## Contributing
+
+
+"If you'd like to contribute, please fork(copy) the repository and use a feature (non master)
+branch. Pull (colloborative review) requests are warmly welcome."
+
+If there's anything else the developer needs to know (e.g. the code style
+guide), you should link it here. If there's a lot of things to take into
+consideration, it is common to separate this section to its own file called
+`CONTRIBUTING.md` (or similar). If so, you should say that it exists here.
+
+## Links
+
+Even though this information can be found inside the project on machine-readable
+format like in a .json file, it's good to include a summary of most useful
+links to humans using your project. You can include links like:
+
+- Project homepage: https://github.com/PacktPublishing/Cloud-Computing-for-Beginners
+- Repository: https://github.com/PacktPublishing/Cloud-Computing-for-Beginners
+- Issue tracker: https://github.com/PacktPublishing/Cloud-Computing-for-Beginners
+  - In case of sensitive bugs like security vulnerabilities, please contact
+    david3651@live.com directly instead of using issue tracker. We value your effort
+    to improve the security and privacy of this project!
+- Related projects: <place holder>
+  - Your other project: <place holder>
+  - Someone else's project: <place holder>
 
 
 ## Licensing

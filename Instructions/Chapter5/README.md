@@ -17,8 +17,45 @@ Initial repo during beta dev
 
 A quick introduction of the minimal setup you need to get started.
 
-This chapter does include example solutions however no engineering instructions are provided.
->>>Insight: This example solution is a challenge, which is why we have removed the step-by-step instructions.
+1. Visitors can clone the repo or download seperately the directory files to a local machine.
+
+## Developing
+
+2. Review README file located in the directory ~Allfiles/Chapter4/
+
+This example does not include step-by-step instructions.
+Readers are recommended to return and attempt recreating these examples after they have read the cloud computing essentials for beginners book.
+
+### Architecting
+> Optionally readers can design a cloud computing architecture similar to examples illustrated in the book.
+>> Readers can use the pptx, powerpoint file and architecting icons located in this directory to support diagramming a cloud computing IaaS resource.
+
+## Contributing
+
+
+"If you'd like to contribute, please fork(copy) the repository and use a feature (non master)
+branch. Pull (colloborative review) requests are warmly welcome."
+
+If there's anything else the developer needs to know (e.g. the code style
+guide), you should link it here. If there's a lot of things to take into
+consideration, it is common to separate this section to its own file called
+`CONTRIBUTING.md` (or similar). If so, you should say that it exists here.
+
+## Links
+
+Even though this information can be found inside the project on machine-readable
+format like in a .json file, it's good to include a summary of most useful
+links to humans using your project. You can include links like:
+
+- Project homepage: https://github.com/PacktPublishing/Cloud-Computing-for-Beginners
+- Repository: https://github.com/PacktPublishing/Cloud-Computing-for-Beginners
+- Issue tracker: https://github.com/PacktPublishing/Cloud-Computing-for-Beginners
+  - In case of sensitive bugs like security vulnerabilities, please contact
+    david3651@live.com directly instead of using issue tracker. We value your effort
+    to improve the security and privacy of this project!
+- Related projects: <place holder>
+  - Your other project: <place holder>
+  - Someone else's project: <place holder>
 
 
 ## Licensing
