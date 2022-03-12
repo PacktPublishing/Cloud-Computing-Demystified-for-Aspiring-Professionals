@@ -17,30 +17,29 @@ Initial repo during beta dev
 
 A quick introduction of the minimal setup you need to get started.
 
-1. Visitors can clone the repo or download seperately the sample template to a local machine.
-    a. Sample solutions templates show you how to create an end-to-end solution with common applications.
+1. Visitors can clone the repo to a local machine.
 2. Create an AWS account.
-    a. Use an existing AWS account.
-3. Review how to create a cloudformation stack.
-4. Import the template labeled iaasAmazonDeploy.json from ~/Allfiles/Chapter4/iaasAWSexample/
+    >a. Or use an existing AWS account.
+3. Setup AWS CDK
 
 
 what actually happens when you execute.
 
-Installs and deploys a web application on to Amazon EC2 instances in an Auto Scaling group with a multi-AZ
+Creates a Kubernetes cluster and deploys an application.
 
 ### Initial Configuration
 
 1. AWS account is required.
+2. Install CDK.
 
 
 
 ## Developing
 
-2. Master cloudformation
+2. Learn how to use the CDK
 
 This example does not include step-by-step instructions.
-Readers are recommended to return and attempt recreating these examples after they have read the cloud computing essentials for beginners book.
+Readers are recommended to return and attempt recreating these examples after they have read the entire cloud computing essentials for beginners book.
 
 ### Building
 
@@ -54,14 +53,17 @@ Provide unique parameter values
 In case there's some step you have to take that publishes this project to a
 server, this is the right time to state it.
 
->> Deploy using cloudformation
+> 1. Deploy a cluster
+> 2. Install AWS CDK
+> 3. Deploy architecture with CDK
+> 4. Deploy application with CDK
 
 
 ## Features
 
 What can the features for this project accomplish?
-* What's the main functionality
-AWS CloudFormation provides a common language to describe and provision all the infrastructure resources in your environment in a safe, repeatable way.
+* What's the main functionality?
+>Amazons EKS improves the process, from creating a cluster to deploying and operating your applications.
 
 ### Architecting
 > Optionally readers can design a cloud computing architecture similar to examples illustrated in the book.
