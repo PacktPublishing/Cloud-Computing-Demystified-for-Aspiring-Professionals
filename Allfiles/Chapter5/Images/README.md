@@ -17,51 +17,11 @@ Initial repo during beta dev
 
 A quick introduction of the minimal setup you need to get started.
 
-1. Visitors can clone the repo or download seperately the sample template to a local machine.
-    a. Sample solutions templates show you how to create an end-to-end solution with common applications.
-2. Create an AWS account.
-    a. Use an existing AWS account.
-3. Review how to create a cloudformation stack.
-4. Import the template labeled iaasAmazonDeploy.json from ~/Allfiles/Chapter4/iaasAWSexample/
+1. Visitors can clone the repo or download seperately the sample files ( pptx ) to a local machine.
 
-
-what actually happens when you execute.
-
-Installs and deploys a web application on to Amazon EC2 instances in an Auto Scaling group with a multi-AZ
-
-### Initial Configuration
-
-1. AWS account is required.
-
-
-
-## Developing
-
-2. Master cloudformation
 
 This example does not include step-by-step instructions.
 Readers are recommended to return and attempt recreating these examples after they have read the cloud computing essentials for beginners book.
-
-### Building
-
-If your project needs some additional steps for the developer to build the
-project after some code changes, state them here:
-
-Provide unique parameter values
-
-### Deploying / Publishing
-
-In case there's some step you have to take that publishes this project to a
-server, this is the right time to state it.
-
->> Deploy using cloudformation
-
-
-## Features
-
-What can the features for this project accomplish?
-* What's the main functionality
-AWS CloudFormation provides a common language to describe and provision all the infrastructure resources in your environment in a safe, repeatable way.
 
 ### Architecting
 > Optionally readers can design a cloud computing architecture similar to examples illustrated in the book.
