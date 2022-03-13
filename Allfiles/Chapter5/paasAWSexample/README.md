@@ -20,7 +20,8 @@ A quick introduction of the minimal setup you need to get started.
 1. Visitors can clone the repo to a local machine.
 2. Create an AWS account.
     >a. Or use an existing AWS account.
-3. Setup AWS CDK
+3. AWS CLI; A command line tool for working with AWS services, including Amazon EKS. This example requires that you use version 2.4.9 or later.
+4. kubectl; A command line tool for working with Kubernetes clusters. This example requires that you use version 1.21 or later.
 
 
 what actually happens when you execute.
@@ -30,23 +31,11 @@ Creates a Kubernetes cluster and deploys an application.
 ### Initial Configuration
 
 1. AWS account is required.
-2. Install CDK.
-
-
 
 ## Developing
 
-2. Learn how to use the CDK
-
 This example does not include step-by-step instructions.
 Readers are recommended to return and attempt recreating these examples after they have read the entire cloud computing essentials for beginners book.
-
-### Building
-
-If your project needs some additional steps for the developer to build the
-project after some code changes, state them here:
-
-Provide unique parameter values
 
 ### Deploying / Publishing
 
@@ -54,9 +43,11 @@ In case there's some step you have to take that publishes this project to a
 server, this is the right time to state it.
 
 > 1. Deploy a cluster
-> 2. Install AWS CDK
-> 3. Deploy architecture with CDK
-> 4. Deploy application with CDK
+> 2. Configure cluster communication
+> 3. Deploy nodes
+> 4. Deploy application with kubectl CLI
+>   a. Save the file named eks-sample-deployment.yaml , located at the directory path: ~/Allfiles/Chapter5/paasAWSexample/ to your local machine.
+>   b. Save the file named eks-sample-service.yaml , located at the directory path: ~/Allfiles/Chapter5/paasAWSexample/ to your local machine.
 
 
 ## Features
