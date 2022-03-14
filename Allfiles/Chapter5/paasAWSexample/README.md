@@ -46,8 +46,12 @@ server, this is the right time to state it.
 > 2. Configure cluster communication
 > 3. Deploy nodes
 > 4. Deploy application with kubectl CLI
->   a. Save the file named eks-sample-deployment.yaml , located at the directory path: ~/Allfiles/Chapter5/paasAWSexample/ to your local machine.
->   b. Save the file named eks-sample-service.yaml , located at the directory path: ~/Allfiles/Chapter5/paasAWSexample/ to your local machine.
+
+
+a. Save the file named eks-sample-deployment.yaml , located at the directory path: ~/Allfiles/Chapter5/paasAWSexample/ to your local machine.
+
+
+b. Save the file named eks-sample-service.yaml , located at the directory path: ~/Allfiles/Chapter5/paasAWSexample/ to your local machine.
 
 
 ## Features
