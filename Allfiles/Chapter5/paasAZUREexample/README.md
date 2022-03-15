@@ -18,11 +18,15 @@ Initial repo during beta dev
 A quick introduction of the minimal setup you need to get started.
 
 1. Visitors can clone the repo or download files to a local machine.
+
 2. Create an Azure account.
     >a. Or use an existing Azure account.
+
 3. Contianer image installed on your local machine
+
 4. Azure Container Registry
-5. kubectl
+
+5. kubectl installed and configured
 
 
 what actually happens when you execute.
@@ -43,15 +47,22 @@ Readers are recommended to return and attempt recreating these examples after th
 In case there's some step you have to take that publishes this project to a
 server, this is the right time to state it.
 
-> 1. Deploy a cluster
-> 2. Configure Application
+> 1. Deploy a Kubernetes cluster
+
+> 2. Retrieve the prebuilt application code and Docker files from the directory path ~\Allfiles\Chapter5\paasAZUREexample\
+
+> 3. Configure and create the container image
+
+> 4. Deploy the container to Kubernetes.
+
+> 5. Run the container application.
 
 
 ## Features
 
 What can the features for this project accomplish?
 * What's the main functionality?
->Azure AKS optimizes the process, from creating a cluster to deploying and operating your applications.
+>Azure AKS optimizes the orchestration process, from creating a cluster to deploying and operating your applications.
 
 ### Architecting
 > Optionally readers can design a cloud computing architecture similar to examples illustrated in the book.
