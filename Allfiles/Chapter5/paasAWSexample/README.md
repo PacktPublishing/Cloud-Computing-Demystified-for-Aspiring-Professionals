@@ -62,7 +62,7 @@ What can the features for this project accomplish?
 
 ### Architecting
 > Optionally readers can design a cloud computing architecture similar to examples illustrated in the book.
->> Readers can use the pptx, powerpoint file and architecting icons located in this directory to support diagramming a cloud computing IaaS resource.
+>> Readers can use the pptx, powerpoint file and architecting icons located in this directory to support diagramming a cloud computing PaaS resource.
 
 ## Contributing
 
