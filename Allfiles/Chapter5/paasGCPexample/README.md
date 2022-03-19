@@ -17,27 +17,28 @@ Initial repo during beta dev
 
 A quick introduction of the minimal setup you need to get started.
 
-1. Visitors can clone the repo or download seperately the sample template to a local machine.
-    a. Sample solutions templates show you how to create an end-to-end solution with common applications.
-2. Create an AWS account.
-    a. Use an existing AWS account.
-3. Review how to create a cloudformation stack.
-4. Import the template labeled iaasAmazonDeploy.json from ~/Allfiles/Chapter4/iaasAWSexample/
+1. Visitors can clone the repo or download seperately the sample files to a local machine.
+2. Create an Google Cloud Platform account.
+    a. Or use an existing Googl Cloud Platform account.
+3. Activate Cloud Shell
+
 
 
 what actually happens when you execute.
 
-Installs and deploys a web application on to Amazon EC2 instances in an Auto Scaling group with a multi-AZ
+Deploys a web application to Google Kubernetes Engine Cluster
 
 ### Initial Configuration
 
-1. AWS account is required.
+1. Google Cloud Platform account is required.
+2. Create a project
+  a. Or use an existing project
 
 
 
 ## Developing
 
-2. Master cloudformation
+2. Master Cloud Shell
 
 This example does not include step-by-step instructions.
 Readers are recommended to return and attempt recreating these examples after they have read the cloud computing essentials for beginners book.
@@ -53,19 +54,19 @@ Provide unique parameter values
 
 In case there's some step you have to take that publishes this project to a
 server, this is the right time to state it.
-
->> Deploy using cloudformation
+1. Create a GKE cluster
+2. Deploy an application to the cluster
 
 
 ## Features
 
 What can the features for this project accomplish?
 * What's the main functionality
-AWS CloudFormation provides a common language to describe and provision all the infrastructure resources in your environment in a safe, repeatable way.
+Create a GKE cluster and then deploy an application to the cluster
 
 ### Architecting
 > Optionally readers can design a cloud computing architecture similar to examples illustrated in the book.
->> Readers can use the pptx, powerpoint file and architecting icons located in this directory to support diagramming a cloud computing IaaS resource.
+>> Readers can use the pptx, powerpoint file and architecting icons located in the directory ~/Allfiles/Chapter5/ to support diagramming a cloud computing PaaS resources.
 
 ## Contributing
 
