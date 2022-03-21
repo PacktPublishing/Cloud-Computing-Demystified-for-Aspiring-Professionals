@@ -18,9 +18,16 @@ Initial repo during beta dev
 A quick introduction of the minimal setup you need to get started.
 
 1. Visitors can clone the repo or download seperately the sample files to a local machine.
+
+   a. Review the code and configuration files located in the directory path ~\Allfiles\Chapter5\paasGCPexample\paasDockerApp\hello-app
+
+   b. This app has been containerized and the image is stored in Google's sample container registry. This registry is referenced in the command listed in the heading labeled "_Deploying / Publishing_"
+
 2. Create an Google Cloud Platform account.
     a. Or use an existing Googl Cloud Platform account.
-3. Activate Cloud Shell
+3. Activate Cloud Shell (recommended option)
+4. Google Cloud SDK
+5. Google Cloud CLI
 
 
 
@@ -38,7 +45,9 @@ Deploys a web application to Google Kubernetes Engine Cluster
 
 ## Developing
 
-2. Master Cloud Shell
+2. Learn Cloud Shell
+3. Learn CLI
+3. Learn Google Cloud GKE
 
 This example does not include step-by-step instructions.
 Readers are recommended to return and attempt recreating these examples after they have read the cloud computing essentials for beginners book.
@@ -56,7 +65,10 @@ In case there's some step you have to take that publishes this project to a
 server, this is the right time to state it.
 1. Create a GKE cluster
 2. Deploy an application to the cluster
-
+```
+  a.kubectl create deployment hello-server --image=us-docker.pkg.dev/google-samples/containers/gke hello-app:1.0
+```
+3. Reveal the application to the internet
 
 ## Features
 
@@ -66,7 +78,7 @@ Create a GKE cluster and then deploy an application to the cluster
 
 ### Architecting
 > Optionally readers can design a cloud computing architecture similar to examples illustrated in the book.
->> Readers can use the pptx, powerpoint file and architecting icons located in the directory ~/Allfiles/Chapter5/ to support diagramming a cloud computing PaaS resources.
+>> Readers can use either the pptx, powerpoint file and architecting icons or image files located in the directory ~/Allfiles/Chapter5/ to support diagramming a cloud computing PaaS resources.
 
 ## Contributing
 
