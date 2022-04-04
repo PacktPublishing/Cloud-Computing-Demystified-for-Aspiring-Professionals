@@ -17,20 +17,12 @@ Initial repo during beta dev
 
 A quick introduction of the minimal setup you need to get started.
 
-```code to automate or manual task
-<place holder> Example: System.Console.WriteLine("No logo, No Ego, Amazon, Microsoft, and Google rock!");
-```
+The only way to get started with SaaS products is by trying them out.
 
-what actually happens when you execute.
+Here is a link:
+https://aws.amazon.com/workdocs/pricing/
 
-example output: No logo, No Ego, Amazon, Microsoft, and Google rock!
-
-### Initial Configuration
-
-Some projects require initial configuration.
-This is the section where you would document those requirements.
-
-
+Important: Review the website information before signing up for the service.
 
 ## Developing
 
