@@ -12,25 +12,17 @@ Initial repo during beta dev
 >> Initially you’ll be enlightened on cloud computing and its various models. Then you will learn how to plan, and implement infrastructure services, platform services and configure software as a service types, this includes step-by-step demonstrations, review questions, and optimization recommendations derived from certified experts in the industry utilizing Microsoft, Amazon, and Google cloud computing services.
 
 >> Cloud Computing Essentials for Beginners includes hands-on tutorials, and self-assessment questions. This easy-to-follow guide will teach you the essentials of cloud computing services.
-
 ## Installing / Getting started
 
 A quick introduction of the minimal setup you need to get started.
 
-```code to automate or manual task
-<place holder> Example: System.Console.WriteLine("No logo, No Ego, Amazon, Microsoft, and Google rock!");
-```
+The only way to get started with SaaS products is by trying them out.
 
-what actually happens when you execute.
-
-example output: No logo, No Ego, Amazon, Microsoft, and Google rock!
-
-### Initial Configuration
-
-Some projects require initial configuration.
-This is the section where you would document those requirements.
+Here is a link:
+https://www.microsoft.com/enterprise/compare-plans
 
 
+Important: Review the website information before signing up for the service.
 
 ## Developing
 
