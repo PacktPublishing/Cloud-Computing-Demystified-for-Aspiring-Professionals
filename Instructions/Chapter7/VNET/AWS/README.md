@@ -19,6 +19,27 @@ A quick introduction of the minimal setup you need to get started.
 
 1. Visitors can clone the repo or download seperately the directory files to a local machine.
 
+### Implementing Overview
+In this tutorial, you will learn how to create and configure virtual private cloud resources in AWS. You will also learn about the other VPC components, and finally we will review several principals associated with cloud networking.
+### Objectives
+After completing this tutorial, you will be able to achieve the following:
+•	Describe and configure a VPC
+•	Describe and configure a CIDR
+•	Describe and configure subnets
+•	Describe and configure an internet gateway
+•	Describe and configure routing
+### Prerequisites
+This tutorial requires the following:
+•	I recommend an updated version of Windows 8 or later, MAC 10.15 or later, or Linux Ubuntu 18.04 or later, computer operating systems.
+•	An updated internet browser (Chrome or Edge are recommended)
+•	Reader instructions are located either:
+o	In chapter 7, titled, Implementing Virtual Network Resources for Security, section labeled, Virtual Networking.
+o	Navigate online to https://github.com/PacktPublishing/Cloud-Computing-for-Beginners/tree/main/Instructions/Chapter7/VNET/AWS.
+•	Access to an AWS account with the required privileges to create and manage all VPC resources and dependencies.
+o	How to create an AWS trial account for training purposes only?
+	Use this resource for AWS, https://aws.amazon.com/free.
+
+
 ## Developing
 
 2. Review README file located in the directory ~Allfiles/Chapter4/
