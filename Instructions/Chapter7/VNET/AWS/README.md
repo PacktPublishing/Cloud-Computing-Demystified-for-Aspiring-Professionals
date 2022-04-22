@@ -4,7 +4,6 @@ Initial repo during beta dev
 
 ## Name of the project: Cloud Computing Essentials for Beginners
 
-- A brief description of your project:
 
 > Cloud Computing Essentials for Beginners is a compendious volume focused on educating beginning practitioners on how to master modern cloud computing essentials required to prepare for accreditation to succeed in any technology centric industry.
 
