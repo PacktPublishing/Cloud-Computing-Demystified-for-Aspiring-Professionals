@@ -40,7 +40,7 @@ Recommended requirements for completing all tasks:
 
 -	An updated version of Windows 8 or later, MAC 10.15 or later, or Linux Ubuntu 18.04 or later, computer operating systems.
 
--	An updated internet browser (Chrome or Edge are recommended)
+-	An up to date and secure internet browser (Chrome or Edge are recommended).
 
 -	Instructions are located either:
 
@@ -56,7 +56,12 @@ Recommended requirements for completing all tasks:
 
 
 ## Developing
+> AWS VPC implementation instructions are located in this directory ~/Cloud-Computing-for-Beginners/tree/main/Instructions/Chapter7/VNET/AWS.
 
+### Step-by-Step Instructions
+- File name:
+
+  1. awsVPC_AllTasks.md
 
 ## Contributing
 
