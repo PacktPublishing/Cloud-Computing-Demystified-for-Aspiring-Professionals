@@ -2,33 +2,66 @@
 Initial repo during beta dev
 ![Logo of the project](https://www.stratospherenetworks.com/blog/wp-content/uploads/2020/05/iStock-1137011043.jpg)
 
-# Name of the project
-## Cloud Computing Essentials for Beginners
+## Name of the project: Cloud Computing Essentials for Beginners
 
-> A brief description of your project.
 
->> Cloud Computing Essentials for Beginners is a compendious volume focused on educating beginning practitioners on how to master modern cloud computing essentials required to prepare for accreditation to succeed in any technology centric industry.
+> Cloud Computing Essentials for Beginners is a compendious volume focused on educating beginning practitioners on how to master modern cloud computing essentials required to prepare for accreditation to succeed in any technology centric industry.
 
->> Initially you’ll be enlightened on cloud computing and its various models. Then you will learn how to plan, and implement infrastructure services, platform services and configure software as a service types, this includes step-by-step demonstrations, review questions, and optimization recommendations derived from certified experts in the industry utilizing Microsoft, Amazon, and Google cloud computing services.
+> Initially you’ll be enlightened on cloud computing and its various models. Then you will learn how to plan, and implement infrastructure services, platform services and configure software as a service types, this includes step-by-step demonstrations, review questions, and optimization recommendations derived from certified experts in the industry utilizing Microsoft, Amazon, and Google cloud computing services.
 
->> Cloud Computing Essentials for Beginners includes hands-on tutorials, and self-assessment questions. This easy-to-follow guide will teach you the essentials of cloud computing services.
+> Cloud Computing Essentials for Beginners includes hands-on tutorials, and self-assessment questions. This easy-to-follow guide will teach you the essentials of cloud computing services.
 
 ## Installing / Getting started
 
 A quick introduction of the minimal setup you need to get started.
 
-1. Visitors can clone the repo or download seperately the directory files to a local machine.
+1. Visitors can clone the GitHub repository or download seperately the directory files to a local machine.
+
+## Implementing Overview
+In this tutorial, you will learn how to create and configure virtual private cloud resources in Google Cloud. You will also learn about the other VPC components, and finally we will review several principals associated with cloud networking.
+
+## Objectives
+
+After completing this tutorial, you will be able to achieve the following:
+
+-	Describe and configure a VPC
+
+-	Describe and configure a CIDR
+
+-	Describe and configure subnets
+
+-	Describe and configure an internet gateway
+
+-	Describe and configure routing
+
+## Prerequisites
+
+Recommended requirements for completing all tasks:
+
+-	An updated version of Windows 8 or later, MAC 10.15 or later, or Linux Ubuntu 18.04 or later, computer operating systems.
+
+-	An up to date and secure internet browser (Chrome or Edge are recommended)
+
+-	Instructions are located either:
+
+    1. In chapter 7, titled, Implementing Virtual Network Resources  for Security, section labeled, Virtual Networking.
+
+    2. Navigate online to https://github.com/PacktPublishing/Cloud-Computing-for-Beginners/tree/main/Instructions/Chapter7/VNET/AWS.
+
+-	Access to an AWS account with the required privileges to create and manage all VPC resources and dependencies.
+
+    1. How to create an AWS trial account for training purposes only?
+
+	    a. Use this resource for AWS, https://aws.amazon.com/free.
+
 
 ## Developing
+> AWS VPC implementation instructions are located in this directory ~/Cloud-Computing-for-Beginners/tree/main/Instructions/Chapter7/VNET/AWS.
 
-2. Review README file located in the directory ~Allfiles/Chapter4/
+### Step-by-Step Instructions
+- File name:
 
-This example does not include step-by-step instructions.
-Readers are recommended to return and attempt recreating these examples after they have read the cloud computing essentials for beginners book.
-
-### Architecting
-> Optionally readers can design a cloud computing architecture similar to examples illustrated in the book.
->> Readers can use the pptx, powerpoint file and architecting icons located in this directory to support diagramming a cloud computing IaaS resource.
+  1. awsVPC_AllTasks.md
 
 ## Contributing
 
