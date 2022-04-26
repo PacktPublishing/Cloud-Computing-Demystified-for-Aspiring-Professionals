@@ -66,3 +66,6 @@ In cloud computing, virtual networks require network administrators to define th
 
 1.	Remember, in chapter 3 titled Understanding the Benefits of Public Clouds (AWS, Azure, and GCP) we described the Fault Tolerant Infrastructure which explained Availability Zones (AZ).
 
+#### Task 3: Describe and configure subnets
+
+In this task, you will define and configure VPC subnets.
