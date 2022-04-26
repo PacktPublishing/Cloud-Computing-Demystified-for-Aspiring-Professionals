@@ -29,9 +29,7 @@ In this task, you will review and setup all required prerequisites
 > Note: After reviewing and complying with all required prerequisites denoted in the file mentioned above return to this file and continue to the next exercise task.
 
 ### Exercise 1
-
 #### Task 1: Describe and configure a VPC
-
 In this task, you will implement a VPC by using the AWS management console.
 
 > Amazon provides a preconfigured VPC in every AWS geographical region. The VPC is labeled default VPC... For further information and examples read the book titled Cloud Computing Essentials for Beginners.
@@ -51,7 +49,6 @@ In this task, you will implement a VPC by using the AWS management console.
 1.  Insight: The VPC dashboard configuration section labeled Create a VPC streamlines the manual configuration... For further information please read the book titled Cloud Computing Essentials for Beginners.
 
 #### Task 2: Describe and configure a CIDR
-
 In this task, you will define a CIDR by using the Launch VPC Wizard.
 
 In cloud computing, virtual networks require network administrators to define the starting IP and the size of the VPC using... For further information read the book titled Cloud Computing Essentials for Beginners.
@@ -67,5 +64,4 @@ In cloud computing, virtual networks require network administrators to define th
 1.	Remember, in chapter 3 titled Understanding the Benefits of Public Clouds (AWS, Azure, and GCP) we described the Fault Tolerant Infrastructure which explained Availability Zones (AZ).
 
 #### Task 3: Describe and configure subnets
-
 In this task, you will define and configure VPC subnets.
