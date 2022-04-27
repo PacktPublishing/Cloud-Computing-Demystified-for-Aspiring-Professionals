@@ -59,12 +59,12 @@ Recommended requirements for completing all tasks:
 
 
 ## Developing
-> AWS VPC implementation instructions are located in this directory ~/Cloud-Computing-for-Beginners/tree/main/Instructions/Chapter7/VNET/AWS.
+>
 
 ### Step-by-Step Instructions
 - File name:
 
-  1. awsVPC_AllTasks.md
+  1.
 
 ## Contributing
 

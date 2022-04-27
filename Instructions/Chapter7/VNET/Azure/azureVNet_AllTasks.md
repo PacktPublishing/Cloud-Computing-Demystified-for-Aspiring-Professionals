@@ -30,12 +30,20 @@ In this task, you will review and setup all required prerequisites
 
 ### Exercise 1
 
-#### Task 1: Describe and configure a VPC
+#### Task 1: Describe and configure a VNet
 
-In this task, you will implement a VPC by using the AWS management console.
+In this task, you will implement a VNet by using the Azure portal.
 
 1. Sign in to the [AWS Management Console](https://console.aws.amazon.com/console/).
 
-1. In the console, navigate and select **Services**, and on the **Services** section, navigate and select **Networking & Content Delivery**.
+1.	In the portal, navigate and select **Create a resource**, and on the **Create a resource page**, navigate the Categories section and select **Networking**.
 
-1. In the...
+1. In the Create a resource page select Virtual network.
+
+1. In the Create virtual network page, on the Basics tab, review and populate the following empty fields, use the table entries from the value column listed below:
+    - Resource Group: ccebnetworkRG
+    - Name: Vnet0
+    - Region: East US
+1.	Select Next: IP Addresses.
+
+

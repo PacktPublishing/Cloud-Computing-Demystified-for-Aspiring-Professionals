@@ -65,3 +65,20 @@ In cloud computing, virtual networks require network administrators to define th
 
 #### Task 3: Describe and configure subnets
 In this task, you will define and configure VPC subnets.
+
+1.	In the Create a VPC page, the Number of public subnets default settings display 2 public subnets and denote, for web applications that need to be publicly accessible over the internet. If you interpreted accurately, you understand, publicly accessible resources such as web applications need a subnet that allows for public access.
+
+1.	If we follow best practices in terms of resiliency, recall that we elected at minimum two Availability Zones. Theoretically, we should distribute a web application or service across two different availability zones to improve resiliency. Therefore, we will leave the default settings unmodified.
+
+1.	And because we are adhering to best practices, we should also have at minimum two private subnets for resiliency and to secure backend resources that should not be accessible over the public internet. Hence, private IP addresses are sufficient and internal VPC routing for the private subnet should only allow inbound traffic from VPC isolated services and service ports explicitly defined after one or more rigorous risk analysis tests are concluded and approved by all stakeholders.
+
+1.	Review the Customize subnets CIDR blocks section, notice that you can customize the subnets, and the calculated IPs available are listed automatically.
+
+#### Task 4: Describe and configure routing
+In this task, you will define routing.
+
+1.	Review the Route tables section located in the Create VPC page. Identify the route table suffix labeled <place holder>-rtb-public. This route table was automatically generated and assigned to your public subnets. Like the other route tables, this table has a destination and a target. This route table enables the public subnets to access the public internet, which is the destination, via an internet gateway, which is the target.
+
+1.	Lastly, select Create VPC, and review the details upon successfully creating an AWS VPC.
+
+In these tasks, you have implemented an AWS VPC with public and private subnets distributed across multiple availability zones.

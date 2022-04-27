@@ -18,50 +18,40 @@ A quick introduction of the minimal setup you need to get started.
 1. Visitors can clone the GitHub repository or download seperately the directory files to a local machine.
 
 ## Implementing Overview
-In this tutorial, you will learn how to create and configure virtual private cloud resources in Google Cloud. You will also learn about the other VPC components, and finally we will review several principals associated with cloud networking.
+In these tasks, you will learn how to create and configure virtual private cloud resources in Google Cloud.
 
 ## Objectives
-
-After completing this tutorial, you will be able to achieve the following:
-
+After completing these tasks, you will be able to achieve the following:
 -	Describe and configure a VPC
-
--	Describe and configure a CIDR
-
+-	Describe and configure IP addresses
 -	Describe and configure subnets
-
 -	Describe and configure an internet gateway
-
--	Describe and configure routing
-
+-	Describe and configure routes
 ## Prerequisites
-
 Recommended requirements for completing all tasks:
-
--	An updated version of Windows 8 or later, MAC 10.15 or later, or Linux Ubuntu 18.04 or later, computer operating systems.
+-	An updated version of Windows 8.1 or later, MAC 10.15 or later, or Linux Ubuntu 18.04 or later, computer operating system.
 
 -	An up to date and secure internet browser (Chrome or Edge are recommended)
 
 -	Instructions are located either:
 
-    1. In chapter 7, titled, Implementing Virtual Network Resources  for Security, section labeled, Virtual Networking.
+    1. In chapter 7, titled, Implementing Virtual Network Resources for Security, section labeled, Virtual Networking.
 
-    2. Navigate online to https://github.com/PacktPublishing/Cloud-Computing-for-Beginners/tree/main/Instructions/Chapter7/VNET/AWS.
+    1. Navigate online to https://github.com/PacktPublishing/Cloud-Computing-for-Beginners/tree/main/Instructions/Chapter7/VNET/GoogleCloud.
+- Access to a Google Cloud Platform account with the required privileges to create and manage all VPC resources and dependencies.
+    1. How to create a Google Cloud Platform free account for training purposes only?
 
--	Access to an AWS account with the required privileges to create and manage all VPC resources and dependencies.
+          - https://cloud.google.com/free/.
 
-    1. How to create an AWS trial account for training purposes only?
-
-	    a. Use this resource for AWS, https://aws.amazon.com/free.
 
 
 ## Developing
-> AWS VPC implementation instructions are located in this directory ~/Cloud-Computing-for-Beginners/tree/main/Instructions/Chapter7/VNET/AWS.
+>
 
 ### Step-by-Step Instructions
 - File name:
 
-  1. awsVPC_AllTasks.md
+  1.
 
 ## Contributing
 
