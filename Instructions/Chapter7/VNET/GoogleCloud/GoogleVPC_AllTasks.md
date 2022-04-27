@@ -14,8 +14,6 @@ After completing these tasks, you will be able to achieve the following:
 -	Describe and configure an internet gateway
 -	Describe and configure routes
 
-
-
 ## Instructions
 
 ## Exercise 0
@@ -34,7 +32,7 @@ In this task, you will review and setup all required prerequisites
 
 In this task, you will implement a VPC by using the Google Cloud Console.
 
-1.	Sign in to the [Google Cloud Console] (https://console.cloud.google.com/).
+1.	Sign in to the [Google Cloud Console](https://console.cloud.google.com/).
 
 2.	In the search field, enter the search parameter value VPC. And then select VPC network.
 

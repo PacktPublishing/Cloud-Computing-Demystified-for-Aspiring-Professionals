@@ -7,13 +7,13 @@ Technical and non-technical controls can be analyzed. In this case, we started o
 
 ## Objectives
 
-In this lab, you will:
+After completing these tasks, you will be able to achieve the following:
 
-+ Task 1: Describe and configure a VPC
-+ Task 2: Describe and configure a CIDR
-+ Task 3: Describe and configure subnets
-+ Task 4: Describe and configure an internet gateway
-+ Task 5: Describe and configure routing
+-	Describe and configure a VNet
+-	Describe and configure an address space
+-	Describe and configure subnets
+-	Describe and configure an internet gateway
+-	Describe and configure routing
 
 
 ## Instructions
@@ -24,7 +24,7 @@ In this lab, you will:
 
 In this task, you will review and setup all required prerequisites
 
-1. Review and follow suggested instructions located in a file named README.md located in the directory ~/Cloud-Computing-for-Beginners/tree/main/Instructions/Chapter7/VNET/AWS
+1. Review and follow suggested instructions located in a file named README.md located in the directory ~/Cloud-Computing-for-Beginners/tree/main/Instructions/Chapter7/VNET/Azure
 
 > Note: After reviewing and complying with all required prerequisites denoted in the file mentioned above return to this file and continue to the next exercise task.
 
@@ -34,7 +34,7 @@ In this task, you will review and setup all required prerequisites
 
 In this task, you will implement a VNet by using the Azure portal.
 
-1. Sign in to the [AWS Management Console](https://console.aws.amazon.com/console/).
+1.	Sign in to the [Azure Portal](https://portal.azure.com/).
 
 1.	In the portal, navigate and select **Create a resource**, and on the **Create a resource page**, navigate the Categories section and select **Networking**.
 

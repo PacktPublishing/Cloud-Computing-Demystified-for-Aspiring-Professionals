@@ -25,13 +25,9 @@ In these tasks, you will learn how to create and configure virtual network resou
 After completing these tasks, you will be able to achieve the following:
 
 -	Describe and configure a VNet
-
 -	Describe and configure an address space
-
 -	Describe and configure subnets
-
 -	Describe and configure an internet gateway
-
 -	Describe and configure routing
 
 ## Prerequisites
