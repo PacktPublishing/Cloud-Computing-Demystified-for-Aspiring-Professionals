@@ -46,4 +46,36 @@ In this task, you will implement a VNet by using the Azure portal.
     - Region: East US
 1.	Select Next: IP Addresses.
 
+#### Task 2: Describe and configure an address space.
+In this task, you will define and configure an IP address space.
+
+1.	In the IP Addresses tab, review the default IPv4 address space field value automatically generated displaying 10.0.0.0/16.
+
+2.	This IPv4 address space can be modified, and the empty field below supports additional address spaces. Remember, IP address spaces cannot overlap.
+
+#### Task 3: Describe and configure subnets.
+In this task, you will define and configure an IP address space subnet.
+
+1.	In the IP address tab, select the Subnet name labeled default, and then replace the Subnet name field value named default, by entering public_1, and then selecting Save.
+
+2.	In the IP address tab, select Add subnet, and in the Add subnet page, enter private_1 in the Subnet name field.
+
+3.	In the Add subnet page, enter 10.0.1.0/24 in the Subnet address range field, and then select Add.
+
+4.	In the IP address tab, select Add subnet, and in the Add subnet page, enter public_2 in the Subnet name field.
+
+5.	In the Add subnet page, enter 10.0.2.0/24 in the Subnet address range field, and then select Add.
+
+6.	In the IP address tab, select Add subnet, and in the Add subnet page, enter private_2 in the Subnet name field.
+
+7.	In the Add subnet page, enter 10.0.3.0/24 in the Subnet address range field, and then select Add.
+
+8.	In the IP address tab, navigate and select Review + create. And then in the Review + create tab, select Create.
+
+#### Task 4: Describe and configure routing and an internet gateway.
+In this task, you will understand Azure routing and its built-in internet gateway.
+
+
+
+
 
