@@ -3,7 +3,7 @@
 
 ## Why?
 
-Technical and non-technical controls can be analyzed. In this case, we started our tutorial by understanding the importance of examining the cloud networking service resources before further development and testing. If approved, implement in production to securely host our organization's line of business application or service.
+Traditional and modern development projects still recommend technical and non-technical controls to be properly assessed. In this case, we started our tutorial by understanding the importance of analyzing the cloud networking service resources before further development. After a thorough but insightful analysis of our network resources, organizations can consider implementing thier line of business application or service in a VNet.
 
 ## Objectives
 
@@ -18,7 +18,7 @@ After completing these tasks, you will be able to achieve the following:
 
 ## Instructions
 
-## Exercise 0
+## Exercise: 0
 
 ### Task 0: Setup and configure prerequisites
 
@@ -28,7 +28,7 @@ In this task, you will review and setup all required prerequisites
 
 > Note: After reviewing and complying with all required prerequisites denoted in the file mentioned above return to this file and continue to the next exercise task.
 
-### Exercise 1
+### Exercise: 1
 
 #### Task 1: Describe and configure a VNet
 
@@ -41,9 +41,15 @@ In this task, you will implement a VNet by using the Azure portal.
 1. In the Create a resource page select Virtual network.
 
 1. In the Create virtual network page, on the Basics tab, review and populate the following empty fields, use the table entries from the value column listed below:
-    - Resource Group: ccebnetworkRG
-    - Name: Vnet0
-    - Region: East US
+
+
+    | Setting | Value |
+    | --- | --- |
+    | Resource Group | **ccebnetworkRG** |
+    | Name | **Vnet0** |
+    | Region | **East US** |
+
+
 1.	Select Next: IP Addresses.
 
 #### Task 2: Describe and configure an address space.
@@ -74,6 +80,10 @@ In this task, you will define and configure an IP address space subnet.
 
 #### Task 4: Describe and configure routing and an internet gateway.
 In this task, you will understand Azure routing and its built-in internet gateway.
+
+Cloud computing providers like Azure include their own route tables. Microsoft Azure has a system route table which by default... For further information please read the book.
+
+**In these tasks, you have implemented an Azure VNet with public and private subnets.**
 
 
 

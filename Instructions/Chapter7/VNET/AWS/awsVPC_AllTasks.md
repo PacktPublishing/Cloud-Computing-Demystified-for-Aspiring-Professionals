@@ -3,7 +3,7 @@
 
 ## Why?
 
-Technical and non-technical controls can be analyzed. In this case, we started our tutorial by understanding the importance of examining the cloud networking service resources before further development and testing. If approved, implement in production to securely host our organization's line of business application or service.
+Traditional and modern development projects still recommend technical and non-technical controls to be properly assessed. In this case, we started our tutorial by understanding the importance of analyzing the cloud networking service resources before further development. After a thorough but insightful analysis of our network resources, organizations can consider implementing thier line of business application or service in a VPC.
 
 ## Objectives
 
