@@ -2,13 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Allfiles",
-    "\\Allfiles\\Chapter8",
-    "\\Allfiles\\Chapter8\\WebApp",
-    "\\Allfiles\\Chapter8\\WebApp\\dotnetappengine",
-    "\\Instructions\\Chapter7",
-    "\\Instructions\\Chapter7\\VNET",
-    "\\Instructions\\Chapter7\\VNET\\AWS"
+    "\\Instructions",
+    "\\Instructions\\Chapter8\\Container\\AWS"
   ],
-  "SelectedNode": "\\Allfiles\\Chapter8\\WebApp\\dotnetappengine\\README.md",
+  "SelectedNode": "\\Allfiles\\Chapter8",
   "PreviewInSolutionExplorer": false
 }
