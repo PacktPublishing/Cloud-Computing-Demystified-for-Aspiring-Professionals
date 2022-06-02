@@ -1,47 +1,129 @@
----
-page_type: sample
-languages:
-- csharp
-products:
-- azure
-description: "This sample demonstrates how to respond to an EventGridEvent published by a storage account to resize an image and upload a thumbnail as described in the article Automate resizing uploaded images using Event Grid."
-urlFragment: function-image-upload-resize
----
+# Cloud Computing Essentials for Beginners
+Initial repo during beta dev
+![Logo of the project](https://www.stratospherenetworks.com/blog/wp-content/uploads/2020/05/iStock-1137011043.jpg)
 
-# Image Upload Resize 
+# Name of the project
+## Cloud Computing Essentials for Beginners
 
-This sample demonstrates how to respond to an `EventGridEvent` published by a storage account to resize  an image and upload a thumbnail as described in the article [Automate resizing uploaded images using Event Grid](https://docs.microsoft.com/azure/event-grid/resize-images-on-storage-blob-upload-event?toc=%2Fazure%2Fazure-functions%2Ftoc.json&tabs=net).
+> A brief description of your project.
 
-## Local Setup
+>> Cloud Computing Essentials for Beginners is a compendious volume focused on educating beginning practitioners on how to master modern cloud computing essentials required to prepare for accreditation to succeed in any technology centric industry.
 
-Before running this sample locally, you need to add your connection string to the `AzureWebJobsStorage` value in a file named `local.settings.json` file. This file is excluded from the git repository, so an example file named `local.settings.example.json` is provided.
+>> Initially you’ll be enlightened on cloud computing and its various models. Then you will learn how to plan, and implement infrastructure services, platform services and configure software as a service types, this includes step-by-step demonstrations, review questions, and optimization recommendations derived from certified experts in the industry utilizing Microsoft, Amazon, and Google cloud computing services.
 
-```json
-{
-  "IsEncrypted": false,
-  "Values": {
-    "AzureWebJobsStorage": "<STORAGE_ACCOUNT_CONNECTION_STRING>",
-    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
-    "THUMBNAIL_CONTAINER_NAME": "thumbnails",
-    "THUMBNAIL_WIDTH":  "100",
-    "datatype": "binary"
-  }
-}
+>> Cloud Computing Essentials for Beginners includes hands-on tutorials, and self-assessment questions. This easy-to-follow guide will teach you the essentials of cloud computing services.
+
+## Installing / Getting started
+
+A quick introduction of the minimal setup you need to get started.
+
+```code to automate or manual task
+<place holder> Example: System.Console.WriteLine("Fast Lane rocks!");
 ```
 
-To use this file, do the following steps:
+what actually happens when you execute.
 
-1. Replace `<STORAGE_ACCOUNT_CONNECTION_STRING>` with your storage account connection string
-2. Rename the file from `local.settings.example.json` to `local.settings.json` 
+example output: Fast Lane rocks!
 
-## Version Support
+### Initial Configuration
 
-The `master` branch of this repository contains the Functions version 2.x implementation, while the `v1` branch has the Functions 1.x implementation.
+Some projects require initial configuration.
+This is the section where you would document those requirements.
+
+
+
+## Developing
+
+Here's a brief intro about what a developer must do in order to start developing
+the project further:
+
+``` code to automate or manual task
+<place holder> Example: System.Console.WriteLine("Fast Lane rocks!");
+```
+
+And state what happens step-by-step.
+
+1. <place holder>
+2. <place holder>
+3. <place holder>
+
+### Building
+
+If your project needs some additional steps for the developer to build the
+project after some code changes, state them here:
+
+```code to automate or manual task
+<place holder> Example: System.Console.WriteLine("Fast Lane rocks!");
+```
+
+
+### Deploying / Publishing
+
+In case there's some step you have to take that publishes this project to a
+server, this is the right time to state it.
+
+```code to automate or manual task
+<place holder> Example: System.Console.WriteLine("Fast Lane rocks!");
+```
+
+Explain what the previous code actually does.
+
+## Features
+
+What can the features for this project accomplish?
+* What's the main functionality
+1. <place holder>
+
+## Configuration
+
+Here you should write what are all of the configurations a user can enter when
+using the project.
+
+#### Argument 1
+Type: `String`
+Default: `'default value'`
+
+State what an argument does and how you can use it. If needed, you can provide
+an example below.
+
+Example:
+code to automate or manual task
+<place holder> Example: System.Console.WriteLine("Fast Lane rocks!");
+
+#### Argument 2
+Type: `Number|Boolean`
+Default: 100
+
+Copy-paste as many of these as you need.
 
 ## Contributing
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit https://cla.microsoft.com.
 
-When you submit a pull request, a CLA-bot will automatically determine whether you need to provide a CLA and decorate the PR appropriately (e.g., label, comment). Simply follow the instructions provided by the bot. You will only need to do this once across all repos using our CLA.
+"If you'd like to contribute, please fork(copy) the repository and use a feature (non master)
+branch. Pull (colloborative review) requests are warmly welcome."
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+If there's anything else the developer needs to know (e.g. the code style
+guide), you should link it here. If there's a lot of things to take into
+consideration, it is common to separate this section to its own file called
+`CONTRIBUTING.md` (or similar). If so, you should say that it exists here.
+
+## Links
+
+Even though this information can be found inside the project on machine-readable
+format like in a .json file, it's good to include a summary of most useful
+links to humans using your project. You can include links like:
+
+- Project homepage: <place holder>
+- Repository: <place holder>
+- Issue tracker: <place holder>
+  - In case of sensitive bugs like security vulnerabilities, please contact
+    david3651@live.com directly instead of using issue tracker. We value your effort
+    to improve the security and privacy of this project!
+- Related projects: <place holder>
+  - Your other project: <place holder>
+  - Someone else's project: <place holder>
+
+
+## Licensing
+
+"The project is licensed under Packt Publishing."
