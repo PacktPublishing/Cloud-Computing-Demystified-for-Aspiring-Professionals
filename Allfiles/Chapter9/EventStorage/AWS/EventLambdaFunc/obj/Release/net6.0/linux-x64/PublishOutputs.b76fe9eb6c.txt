@@ -1,0 +1,9 @@
+C:\Users\david\Desktop\PacktPublishing\Cloud-Computing-Essentials-Beg\Allfiles\Chapter9\EventStorage\AWS\EventLambdaFunc\bin\Release\net6.0\publish\EventLambdaFunc.deps.json
+C:\Users\david\Desktop\PacktPublishing\Cloud-Computing-Essentials-Beg\Allfiles\Chapter9\EventStorage\AWS\EventLambdaFunc\bin\Release\net6.0\publish\EventLambdaFunc.runtimeconfig.json
+C:\Users\david\Desktop\PacktPublishing\Cloud-Computing-Essentials-Beg\Allfiles\Chapter9\EventStorage\AWS\EventLambdaFunc\bin\Release\net6.0\publish\EventLambdaFunc.pdb
+C:\Users\david\Desktop\PacktPublishing\Cloud-Computing-Essentials-Beg\Allfiles\Chapter9\EventStorage\AWS\EventLambdaFunc\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\david\Desktop\PacktPublishing\Cloud-Computing-Essentials-Beg\Allfiles\Chapter9\EventStorage\AWS\EventLambdaFunc\bin\Release\net6.0\publish\Amazon.Lambda.S3Events.dll
+C:\Users\david\Desktop\PacktPublishing\Cloud-Computing-Essentials-Beg\Allfiles\Chapter9\EventStorage\AWS\EventLambdaFunc\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\david\Desktop\PacktPublishing\Cloud-Computing-Essentials-Beg\Allfiles\Chapter9\EventStorage\AWS\EventLambdaFunc\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\Users\david\Desktop\PacktPublishing\Cloud-Computing-Essentials-Beg\Allfiles\Chapter9\EventStorage\AWS\EventLambdaFunc\bin\Release\net6.0\publish\AWSSDK.S3.dll
+C:\Users\david\Desktop\PacktPublishing\Cloud-Computing-Essentials-Beg\Allfiles\Chapter9\EventStorage\AWS\EventLambdaFunc\bin\Release\net6.0\publish\EventLambdaFunc.dll
