@@ -2,7 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\Allfiles",
-    "\\Instructions"
+    "\\Allfiles\\Chapter7",
+    "\\Instructions",
+    "\\Instructions\\Chapter10\\BigDataDL",
+    "\\Instructions\\Chapter10\\BigDataDL\\AWS",
+    "\\Instructions\\Chapter9\\FileShare\\GoogleCloud"
   ],
+  "SelectedNode": "\\Allfiles\\Chapter7\\PowerShell",
   "PreviewInSolutionExplorer": false
 }

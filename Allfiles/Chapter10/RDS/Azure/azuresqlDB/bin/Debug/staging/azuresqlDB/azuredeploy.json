@@ -1,0 +1,97 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "serverAdminLogin": {
+      "type": "string",
+      "minLength": 1
+    },
+    "serverAdminLoginPassword": {
+      "type": "securestring"
+    },
+    "ccebdbName": {
+      "type": "string",
+      "minLength": 1
+    },
+    "ccebdbCollation": {
+      "type": "string",
+      "minLength": 1,
+      "defaultValue": "SQL_Latin1_General_CP1_CI_AS"
+    },
+    "ccebdbEdition": {
+      "type": "string",
+      "defaultValue": "Basic",
+      "allowedValues": [
+        "Basic",
+        "Standard",
+        "Premium"
+      ]
+    },
+    "ccebdbRequestedServiceObjectiveName": {
+      "type": "string",
+      "defaultValue": "Basic",
+      "allowedValues": [
+        "Basic",
+        "S0",
+        "S1",
+        "S2",
+        "P1",
+        "P2",
+        "P3"
+      ],
+      "metadata": {
+        "description": "Describes the performance level for Edition"
+      }
+    }},
+  "variables": {
+    "serverName": "[concat('server', uniqueString(resourceGroup().id))]"},
+  "resources": [
+    {
+      "name": "[variables('serverName')]",
+      "type": "Microsoft.Sql/servers",
+      "location": "[resourceGroup().location]",
+      "apiVersion": "2014-04-01-preview",
+      "dependsOn": [ ],
+      "tags": {
+        "displayName": "server"
+      },
+      "properties": {
+        "administratorLogin": "[parameters('serverAdminLogin')]",
+        "administratorLoginPassword": "[parameters('serverAdminLoginPassword')]"
+      },
+      "resources": [
+        {
+          "name": "AllowAllWindowsAzureIps",
+          "type": "firewallrules",
+          "location": "[resourceGroup().location]",
+          "apiVersion": "2014-04-01-preview",
+          "dependsOn": [
+            "[resourceId('Microsoft.Sql/servers', variables('serverName'))]"
+          ],
+          "properties": {
+            "startIpAddress": "0.0.0.0",
+            "endIpAddress": "0.0.0.0"
+          }
+        },
+        {
+          "name": "[parameters('ccebdbName')]",
+          "type": "databases",
+          "location": "[resourceGroup().location]",
+          "apiVersion": "2014-04-01-preview",
+          "dependsOn": [
+            "[resourceId('Microsoft.Sql/servers', variables('serverName'))]"
+          ],
+          "tags": {
+            "displayName": "ccebdb"
+          },
+          "properties": {
+            "collation": "[parameters('ccebdbCollation')]",
+            "edition": "[parameters('ccebdbEdition')]",
+            "maxSizeBytes": "1073741824",
+            "requestedServiceObjectiveName": "[parameters('ccebdbRequestedServiceObjectiveName')]"
+          }
+        }
+      ]
+    }],
+  "outputs": {}
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aad6a03d-9bde-49c9-931a-c4ba422e090c": {
+      "ProjectGuid": "aad6a03d-9bde-49c9-931a-c4ba422e090c",
+      "DisplayName": "azuresqlDB",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
