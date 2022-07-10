@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "azuresqlDB", "azuresqlDB.deployproj", "{AAD6A03D-9BDE-49C9-931A-C4BA422E090C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAD6A03D-9BDE-49C9-931A-C4BA422E090C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD6A03D-9BDE-49C9-931A-C4BA422E090C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD6A03D-9BDE-49C9-931A-C4BA422E090C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD6A03D-9BDE-49C9-931A-C4BA422E090C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E237EDD-42A3-4510-B042-7EBA12EE7C2F}
+	EndGlobalSection
+EndGlobal
