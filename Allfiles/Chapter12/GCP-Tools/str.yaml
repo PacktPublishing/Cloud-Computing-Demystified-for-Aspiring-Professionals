@@ -1,0 +1,6 @@
+resources:
+- type: storage.v1.bucket
+  name: ccdapds22-cloudstrg
+  properties:
+    project: ProjectCCEB
+    name: ccadpds22-onlinestrg
