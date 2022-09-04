@@ -1,4 +1,4 @@
-# Cloud Computing Essentials for Beginners
+# Cloud Computing Essentials for Beginners has been updated and renamed. The stakeholders and development team will update you soon with its new location and title.
 Initial repo during beta dev
 ![Logo of the project](https://www.stratospherenetworks.com/blog/wp-content/uploads/2020/05/iStock-1137011043.jpg)
 
