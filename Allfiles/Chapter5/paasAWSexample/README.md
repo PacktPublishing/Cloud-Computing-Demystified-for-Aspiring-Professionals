@@ -10,7 +10,7 @@ Business and multimedia
 
 ## Objectives
 
-+ Task 1: Developing on Kubernetes using PaaS
++ Example: Developing on Kubernetes using PaaS
 
 
 >**Note**: This example does not include instructions. Instructions are included for examples in Part 2: Cloud computing services in action.
