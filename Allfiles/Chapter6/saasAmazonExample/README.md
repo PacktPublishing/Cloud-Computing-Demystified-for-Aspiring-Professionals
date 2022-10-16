@@ -1,5 +1,5 @@
 ---
-AWS Example:
+Amazon Example:
     Title: 'Utilizing Turnkey Software Solutions (SaaS)'
 
 ---
