@@ -20,5 +20,5 @@ Cloud Computing Demystified for Aspiring Professionals:
 	    a. Use this resource for AWS, https://aws.amazon.com/free.
 
 ## Instructions
-- Review the file named awsVPC_AllTasks.md
+- Review the file named awsLB_AllTasks.md
 
