@@ -4,7 +4,7 @@ Cloud Computing Demystified for Aspiring Professionals:
 
 ---
 
->**Note**: This chapter includes example files located on the directory path ~Allfiles/Chapter7/ . Visitors can clone the GitHub repository or download the directory files to a local machine.
+>**Note**: This chapter includes example files located in the directory path ~Allfiles/Chapter7/ . Visitors can clone the GitHub repository or download the directory files to a local machine.
 
 ## Objectives
 
