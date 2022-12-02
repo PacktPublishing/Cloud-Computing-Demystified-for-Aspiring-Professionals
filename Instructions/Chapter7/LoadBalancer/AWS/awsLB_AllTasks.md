@@ -33,9 +33,10 @@
 	
 1. Select Next.
 
-1.  In the Review <place holder for your stack name> page. For example, In the Review stack01. Navigate and select, I acknowledge that AWS CloudFormation might create    IAM resources, and then select Create stack. Note: Stack creation can take some time.
+1.  In the Review <place holder for your stack name> page. For example, In the Review stack01. Navigate and select, I acknowledge that AWS CloudFormation might create    IAM resources, and then select Create stack. 
+> Note: Stack creation can take some time.
   
-1.	Review the AWS resources created by using the search feature in the AWS management console.
+1.  Review the AWS resources created by using the search feature in the AWS management console.
 
 1.  Delete the stack of resources to prevent incurring further charges.
   - Launch the cloud shell in the AWS management console.
