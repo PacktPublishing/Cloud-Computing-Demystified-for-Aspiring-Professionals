@@ -20,6 +20,6 @@ Cloud Computing Demystified for Aspiring Professionals:
 	    a. https://cloud.google.com/free/
 
 ## Instructions
-googleVM_AllTasks.md
+- Review the file named googleVM_AllTasks.md
 
 
