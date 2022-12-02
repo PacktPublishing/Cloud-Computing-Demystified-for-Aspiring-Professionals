@@ -22,6 +22,6 @@ Cloud Computing Demystified for Aspiring Professionals:
 ## Instructions
 - File name:
 
-  1. GoogleVPC_AllTasks.md
+  1. azureLB_AllTasks.md
 
 
