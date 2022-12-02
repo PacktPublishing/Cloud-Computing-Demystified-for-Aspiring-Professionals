@@ -22,7 +22,5 @@ Cloud Computing Demystified for Aspiring Professionals:
       b. https://azure.microsoft.com/en-us/free/free-account-faq/
 
 ## Instructions
-- File name:
-
-  1. azureVM_AllTasks.md
+- Review the file named 
 
