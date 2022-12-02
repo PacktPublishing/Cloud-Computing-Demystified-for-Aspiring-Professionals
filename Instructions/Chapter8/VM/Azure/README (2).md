@@ -24,5 +24,5 @@ Cloud Computing Demystified for Aspiring Professionals:
 ## Instructions
 - File name:
 
-  1. azureVNet_AllTasks.md
+  1. azureVM_AllTasks.md
 
