@@ -8,7 +8,7 @@ Cloud Computing Demystified for Aspiring Professionals:
 
 ## Objectives
 
--	Describe and configure a VPC resource and dependencies.
+-	Implement a Google Cloud Load Balancer
 
 
 ## Prerequisites
@@ -22,6 +22,6 @@ Cloud Computing Demystified for Aspiring Professionals:
 ## Instructions
 - File name:
 
-  1. GoogleVPC_AllTasks.md
+  1. GoogleLB_AllTasks.md
 
 
