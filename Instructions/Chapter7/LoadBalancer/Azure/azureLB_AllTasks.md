@@ -23,16 +23,14 @@
 7.	Select the file named azureloadbalancer.json located in the directory ~ /Cloud-Computing-Essentials-Beg\Allfiles\Chapter7\VNET\Azure. And then select Save on the Edit template page.
 
 8.	In the Custom deployment page, enter the following parameter values:
+    | Setting | Value |
+    | --- | --- |
+    | Resource group | azurelbrg |
+    | Region| East US (Select a region in close proximity with available capacity) |
+    | Admin Username | Enter a unique name |
+    | Admin Password | Pa55w0rd12345 |
 
--	Resource group: azurelbrg
-
--	Region: East US (Any region with available resource capacity.)
-
--	Admin Username: < placeholder for your name >
-
--	Admin Password: Pa55w0rd12345
-
-> Create a strong password instead.
+> Note: Replace the weak password value with unique characters.
 
 9.	On the Custom deployment page, select Review + create.
 
@@ -50,4 +48,4 @@
 ```
 Az group delete –n <Enter your resource group name here>
 ```
-14.	And then enter y at the next prompt.
+14.	And then enter ` y ` at the next prompt.
