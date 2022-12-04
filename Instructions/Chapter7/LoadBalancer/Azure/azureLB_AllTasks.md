@@ -8,7 +8,7 @@
 
 # Task: Describe and configure an Azure Load Balancer.
 
-1.	Sign in to the [Azure Portal] (https://portal.azure.com/).
+1.	Sign in to the [Azure Portal](https://portal.azure.com/)
 
 2.	In the portal, navigate and select **Create a resource**, and on the **Create a resource page**, enter template in the search services and marketplace field. And then select Template deployment.
 
