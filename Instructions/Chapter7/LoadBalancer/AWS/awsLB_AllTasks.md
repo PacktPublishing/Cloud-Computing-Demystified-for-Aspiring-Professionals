@@ -7,7 +7,9 @@
 > Note: After reviewing and complying with all required prerequisites return to this file and continue to the next task.
 
 ## Task : Describe and configure an Elastic Load Balancer
-1.  In the console, navigate and select Services, and in the Services section, navigate and select Management & Governance.
+1. Sign into the [AWS Management Console](https://console.aws.amazon.com/console/)
+
+1.  In the console, select Services, and in the Services section, navigate and select Management & Governance.
 	
 1.	In the Management & Governance section, select CloudFormation.
 
