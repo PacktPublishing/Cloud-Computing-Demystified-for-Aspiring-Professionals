@@ -26,4 +26,6 @@
 
 1. Select Create application.
 
+1. After successfully creating the application, review the environment.
 
+> Note: Do not forget to delete all resources immediately to stop incurring charges
