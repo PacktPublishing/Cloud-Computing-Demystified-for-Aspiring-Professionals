@@ -1,13 +1,11 @@
-# Chapter 8 : Launching Compute Service Resources for Scalability
+# Instructions
 
+## Prerequisite tasks
 
-## Why?
+1. Review instructions located in chapter 8 Implementing Virtual Network Resources for Security
 
-Traditional and modern development projects still recommend technical and non-technical controls to be properly assessed. In this case, we started our tutorial by understanding the importance of analyzing the VM resource type before further development. After a thorough but insightful analysis of our resources, we can consider implementing our line of business application or service in an Azure VM.
+> Note: After reviewing and complying with all required prerequisites return to this file and continue to the next task.
 
-## Objectives
-
-In these tasks, you will learn how to configure and create virtual machine instances in Azure. You will also learn helpful tips, and potential pitfalls that encumber beginners
 Objectives
 After completing these tasks, you will be able to achieve the following:
 •	Describe and configure a VM instance.
