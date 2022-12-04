@@ -18,12 +18,11 @@
 1.	In the Compute Engine page select CREATE INSTANCE.
 
 1.	Update the following settings:
-
-  | Boot disk | Value |
-  | ---- | ---- |
-	| Name | instance-1 |
-	| Region | < Select a region > |
-  | Zone | < Select a zone > |
+    | Create an instance | Value |
+    | --- | --- |
+    | Name | instance-1 |
+    | Region | < Select a region > |
+    | Zone | < Select a zone > |
   
 ## Task 2: Describe and configure Machine type.
 
@@ -32,19 +31,19 @@
 ## Task 3: Describe and configure a boot disk.
 
 1.	In the Boot disk section, review the boot disk properties:
-  | Boot disk | Value |
-  | --- | --- |
-  | Name | instance-1 |
-  |Type | New balanced persistent disk |
-  | Size | 10 GB |
-  | License type | Free |
-  |Image | Debian GNU/Linux 11 |
+    | Project details | Value |
+    | --- | --- |
+    | Name | instance-1 |
+    |Type | New balanced persistent disk |
+    | Size | 10 GB |
+    | License type | Free |
+    |Image | Debian GNU/Linux 11 |
 
 ## Task 4: Describe and configure Networking
 
 1.	Review the Firewall section, select Allow HTTPS traffic, which in-turn configures an inbound rule. Deselect Allow HTTPS traffic.
   
-2.	Access the context menu in the Networking section, and then review the settings that support custom hostnames, and Network interfaces.
+2.	Access the context menu in the Networking section under the Advanced options, and then review the settings that support custom hostnames, and Network interfaces.
   
 3.	Select, Create, and wait for the instance status.
   
