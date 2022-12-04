@@ -46,3 +46,4 @@ export GOOGLE_PROJECT=$(gcloud config get-value project)
 
 17.	At the cloud shell prompt change the directory back to the folder containing the terraform files, and then run ` terraform init ` again, and then, at the prompt enter ` terraform destroy `
 
+> Note: Do not forget to delete all resources immediately to stop incurring charges
