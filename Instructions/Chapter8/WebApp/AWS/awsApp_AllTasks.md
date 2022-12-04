@@ -16,13 +16,13 @@
 
 1.	Enter a unique application name in the Application name field.
 
-1.	In the Platform section, select .NET Core on Linux value in the Platform field.
+1.	In the Platform section, select .NET Core on Linux in the Platform field.
 
 1.	Upload the application by selecting Upload your code.
 
 1.	Select choose file.
 
-1.	And then selecting the dotnet-core-linux.zip application zipped files and folder located in the ~/Cloud-Computing-Essentials-Beg/Allfiles/Chapter8/ directory.
+1.	Then select the dotnet-core-linux.zip folder located in the ~/Cloud-Computing-Demystified-for-Aspiring-Professionals/Allfiles/Chapter8/ directory.
 
 1. Select Create application.
 
