@@ -46,7 +46,7 @@
   ```
     aws cloudformation delete-stack --stack-name <enter your stack name here>
   ```
-
+> Note: Do not forget to delete all resources immediately to stop incurring charges
 
 
 
