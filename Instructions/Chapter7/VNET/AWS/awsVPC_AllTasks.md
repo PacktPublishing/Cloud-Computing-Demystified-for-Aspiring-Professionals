@@ -40,4 +40,4 @@
 
 1.	Lastly, select Create VPC, and review the details upon successfully creating an AWS VPC.
 
-In these tasks, you have implemented an AWS VPC with public and private subnets distributed across multiple availability zones.
+> Note: Do not forget to delete all resources immediately to stop incurring charges
