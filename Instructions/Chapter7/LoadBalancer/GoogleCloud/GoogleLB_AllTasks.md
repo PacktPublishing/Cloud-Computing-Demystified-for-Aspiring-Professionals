@@ -8,7 +8,7 @@
 
 # Task 1: Describe and configure a Google Cloud Load Balancer.
 
-1.	Sign in to the [Google Cloud Console] (https://console.cloud.google.com/).
+1.	Sign in to the [Google Cloud Console](https://console.cloud.google.com/)
 
 2.	In the console, enter Cloud Run API in the search field, and then select Cloud Run API.
 
