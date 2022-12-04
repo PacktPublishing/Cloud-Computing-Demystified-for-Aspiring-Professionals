@@ -8,7 +8,7 @@
 
 ## Task 1: Describe and configure instances and AMI
 
-1.	Sign in to the [AWS Management Console] (https://console.aws.amazon.com/console/).
+1.	Sign in to the [AWS Management Console](https://console.aws.amazon.com/console/)
 
 1.	In the console, navigate and select **Services**, and on the **Services** section, navigate and select **Compute**.
 
@@ -45,18 +45,22 @@
 1.	The Security group name field displays launch-wizard-1.
 
 1.	The inbound security group rules list the following:
--	Type: rdp
--	Protocol: TCP
--	Port range: 3389
--	Source type: Anywhere
--	Source: Add CIDR, prefix list or security – 0.0.0.0/0
--	Description – optional: e.g., SSH for admin desktop
+    | Setting | Value |
+    | --- | --- |
+    | Type | rdp |
+    | Protocol | TCP |
+    | Port range | 3389 |
+    | Source type | Anywhere |
+    | Source | Add CIDR, prefix list or security – 0.0.0.0/0 |
+    | Description | optional: e.g., SSH for admin desktop |
 
 ## Task 4: Describe and configure an EBS storage volume
 
 1.	Review the Configure storage section settings:
--	Root volume: gp2—General purpose SSD (solid state disk)
--	GiB (Gigabyte): 30
+    | Setting | Value |
+    | --- | --- |
+    | Root volume | gp2—General purpose SSD (solid state disk) |
+    | GiB (Gigabyte) | 30 |
 1.	Review the summary section, and then select Launch instance.
 > Note: This may take several minutes.
 1.	After the successful creation of your EC2 instance, I recommend you review your instance utilizing the EC2 dashboard.
