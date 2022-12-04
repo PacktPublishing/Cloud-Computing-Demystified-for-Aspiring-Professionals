@@ -64,4 +64,4 @@
 1.	Review the summary section, and then select Launch instance.
 > Note: This may take several minutes.
 1.	After the successful creation of your EC2 instance, I recommend you review your instance utilizing the EC2 dashboard.
-
+> Note: Do not forget to delete all resources immediately to stop incurring charges
