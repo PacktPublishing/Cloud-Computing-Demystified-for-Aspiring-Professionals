@@ -14,18 +14,20 @@
 1.	In the Create a resource page select Virtual machine.
 
 1.	In the Create virtual machine page, on the Basics tab, review and populate the following settings listed in the Project details section:
-
-Subscription	<Your subscription>	none
-
-Resource group	computerg	Create new
+    | Project details | Value |
+    | --- | --- |
+    | Subscription | < Your subscription > |
+    | Resource group | < Select preexisting or create new >	|
 
 1.	On the Basic tab, review and populate the following settings listed in the Instance details section:
+    | Instance details | Value |
+    | --- | --- |
+    | Virtual machine name |	winvm0 |
+    | Region| < Select a region near you > |
+    | Availability options |	Availability zone |
+    | Availability zone | Zones 1, 2 |
 
-Instance details	Value	Additional Instructions
-Virtual machine name	winvm0	none
-Region	<Select a region near you>	none
-Availability options	Availability zone	none
-Availability zone	Zones 1, 2	Select Zone 1, and 2
+1. Select zone 1 and 2.
 
 ## Task 2: Describe and configure the VM Image, and size.
 
