@@ -55,5 +55,5 @@
 
 1. Google Cloud Platform VPCs include their own system generated route table and internet gateway.
 
-In these tasks, you have implemented a GCP VPC.
+> Note: Do not forget to delete all resources immediately to stop incurring charges
 
