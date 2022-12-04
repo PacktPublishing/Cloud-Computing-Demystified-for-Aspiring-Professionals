@@ -46,7 +46,7 @@
 
 1. Cloud computing providers like Azure include their own route tables and internet gateway. Microsoft Azure has a default system route table.
 
-In these tasks, you have implemented an Azure VNet with public and private subnets.
+> Note: Do not forget to delete all resources immediately to stop incurring charges
 
 
 
