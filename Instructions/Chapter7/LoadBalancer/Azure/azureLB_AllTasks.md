@@ -49,3 +49,5 @@
 Az group delete –n <Enter your resource group name here>
 ```
 14.	And then enter ` y ` at the next prompt.
+
+> Note: Do not forget to delete all resources immediately to stop incurring charges
