@@ -47,4 +47,4 @@
   
 3.	Select, Create, and wait for the instance status.
   
-
+> Note: Do not forget to delete all resources immediately to stop incurring charges
