@@ -1,68 +1,32 @@
-# Chapter 7 : Implementing an Azure VNet
+# Instructions
 
+## Prerequisite tasks
 
-## Why?
+1. Review instructions located in chapter 7 Implementing Virtual Network Resources for Security
 
-Traditional and modern development projects still recommend technical and non-technical controls to be properly assessed. In this case, we started our tutorial by understanding the importance of analyzing the cloud networking service resources before further development. After a thorough but insightful analysis of our network resources, organizations can consider implementing thier line of business application or service in a VNet.
+> Note: After reviewing and complying with all required prerequisites return to this file and continue to the next task.
 
-## Objectives
-
-After completing these tasks, you will be able to achieve the following:
-
--	Describe and configure a VNet
--	Describe and configure an address space
--	Describe and configure subnets
--	Describe and configure an internet gateway
--	Describe and configure routing
-
-
-## Instructions
-
-## Exercise: 0
-
-### Task 0: Setup and configure prerequisites
-
-In this task, you will review and setup all required prerequisites
-
-1. Review and follow suggested instructions located in a file named README.md located in the directory ~/Cloud-Computing-for-Beginners/tree/main/Instructions/Chapter7/VNET/Azure
-
-> Note: After reviewing and complying with all required prerequisites denoted in the file mentioned above return to this file and continue to the next exercise task.
-
-### Exercise: 1
-
-#### Task 1: Describe and configure a VNet
-
-In this task, you will implement a VNet by using the Azure portal.
+## Task 1: Describe and configure a VNet
 
 1.	Sign in to the [Azure Portal](https://portal.azure.com/).
 
 1.	In the portal, navigate and select **Create a resource**, and on the **Create a resource page**, navigate the Categories section and select **Networking**.
 
-1. In the Create a resource page select Virtual network.
+1. In the Create a resource page, select Virtual network.
 
-1. In the Create virtual network page, on the Basics tab, review and populate the following empty fields, use the table entries from the value column listed below:
-
-
-    | Setting | Value |
-    | --- | --- |
-    | Resource Group | **ccebnetworkRG** |
-    | Name | **Vnet0** |
-    | Region | **East US** |
-
+1. In the Create virtual network page, on the Basics tab, review and populate the empty fields. You can use the example table entries located in chapter 7.
 
 1.	Select Next: IP Addresses.
 
-#### Task 2: Describe and configure an address space.
-In this task, you will define and configure an IP address space.
+## Task 2: Describe and configure an address space.
 
 1.	In the IP Addresses tab, review the default IPv4 address space field value automatically generated displaying 10.0.0.0/16.
 
-2.	This IPv4 address space can be modified, and the empty field below supports additional address spaces. Remember, IP address spaces cannot overlap.
+2.	This IPv4 address space can be modified, and the empty field below supports additional address spaces.
 
-#### Task 3: Describe and configure subnets.
-In this task, you will define and configure an IP address space subnet.
+## Task 3: Describe and configure subnets.
 
-1.	In the IP address tab, select the Subnet name labeled default, and then replace the Subnet name field value named default, by entering public_1, and then selecting Save.
+1.	In the IP address tab, select the Subnet name labeled default, and then replace the Subnet name field value named default, by entering public_1, and then selecting     Save.
 
 2.	In the IP address tab, select Add subnet, and in the Add subnet page, enter private_1 in the Subnet name field.
 
@@ -78,12 +42,11 @@ In this task, you will define and configure an IP address space subnet.
 
 8.	In the IP address tab, navigate and select Review + create. And then in the Review + create tab, select Create.
 
-#### Task 4: Describe and configure routing and an internet gateway.
-In this task, you will understand Azure routing and its built-in internet gateway.
+## Task 4: Describe and configure routing and an internet gateway.
 
-Cloud computing providers like Azure include their own route tables. Microsoft Azure has a system route table which by default... For further information please read the book.
+1. Cloud computing providers like Azure include their own route tables and internet gateway. Microsoft Azure has a default system route table.
 
-**In these tasks, you have implemented an Azure VNet with public and private subnets.**
+> Note: Do not forget to delete all resources immediately to stop incurring charges
 
 
 
