@@ -24,3 +24,4 @@ touch cloudrocks.txt
 gsutil cp cloudrocks.txt gs://<enter-unique-name>
 ```
 6. After successfully creating and uploading data, review the Google Cloud Storage
+> Note: Do not forget to delete all resources immediately to stop incurring charges
