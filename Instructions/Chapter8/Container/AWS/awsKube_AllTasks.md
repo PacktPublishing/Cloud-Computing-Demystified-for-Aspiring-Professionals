@@ -42,3 +42,5 @@
 1.	Populate all required fields. Do not populate the optional settings.
 
 1. Complete Step 5, Review and deploy.
+
+> Note: Do not forget to delete all resources immediately to stop incurring charges
