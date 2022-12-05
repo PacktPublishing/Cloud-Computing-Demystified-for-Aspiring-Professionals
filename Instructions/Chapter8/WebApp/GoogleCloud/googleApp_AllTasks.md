@@ -58,3 +58,4 @@ dotnet publish -c Release
 gcloud app deploy .\bin\Release\netcoreapp2.1\publish\app.yaml
 ```
 1. After successfully deploying, navigate online back to the App Engine dashboard and review your environment.
+> Note: Do not forget to delete all resources immediately to stop incurring charges
