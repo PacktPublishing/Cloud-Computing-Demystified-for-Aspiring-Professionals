@@ -12,7 +12,7 @@
 
 5.	In the Lambda dashboard, select Create function.
 
-7.	Under Basic information, do the following:
+7.	Under Basic information, select the following:
     | Basic information | Value |
     | --- | --- |
     |	Function name | pharmafunction |
