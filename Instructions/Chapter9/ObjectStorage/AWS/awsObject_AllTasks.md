@@ -21,3 +21,4 @@ aws s3api create-bucket --bucket <enter-unique-bucket-name> --region us-east-1
 ```
 aws s3api put-object --bucket <enter-unique-bucket-name> --key <EnterfileName> --body < EnterfileName >
 ```
+> Note: Do not forget to delete all resources immediately to stop incurring charges
