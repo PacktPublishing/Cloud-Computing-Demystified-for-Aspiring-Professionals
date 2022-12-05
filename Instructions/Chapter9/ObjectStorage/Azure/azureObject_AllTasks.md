@@ -43,4 +43,4 @@ az storage blob upload \
 --file cloudrocks.txt
 ```
 1.	After successfully creating and uploading data, review the storage account.
-
+> Note: Do not forget to delete all resources immediately to stop incurring charges
