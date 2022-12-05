@@ -33,4 +33,4 @@
 
 1.	Select the azureTimerFunction.py file from the following directory ~/Cloud-Computing-Demystified-for-Aspiring-Professionals/Allfiles/Chapter8/Serverless/Azure
 
-1.	Select Test/Run, then select Run, and finally select close and review the logs
+1.	Select Test/Run, then select Run, and finally select close and review the logs.
