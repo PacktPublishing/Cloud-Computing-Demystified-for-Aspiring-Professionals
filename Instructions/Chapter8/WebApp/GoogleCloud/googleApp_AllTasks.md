@@ -32,7 +32,7 @@
 - Install the [Google Cloud SDK](https://cloud.google.com/sdk/)
 - Install the [.NET Core SDK, version2.0](https://github.com/dotnet/core/blob/master/release-notes/download-archives/2.0.5-download.md)
 
-1.	(option #1) Install Google Cloud tools for Visual Studio.
+1.	(Option #1) Install Google Cloud tools for Visual Studio.
 
 1.	Then select the solution file located in the ~/Cloud-Computing-Demystified-for-Aspiring-Professionals/Allfiles/Chapter8/WebApp directory for Google Cloud.
 
