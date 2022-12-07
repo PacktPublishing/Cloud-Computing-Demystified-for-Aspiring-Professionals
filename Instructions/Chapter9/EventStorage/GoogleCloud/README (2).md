@@ -20,5 +20,5 @@ Cloud Computing Demystified for Aspiring Professionals:
 	    a. https://cloud.google.com/free/
 
 ## Instructions
-- Review the file named googleFS_AllTasks.md
+- Review the file named googleEvent_AllTasks.md
 
