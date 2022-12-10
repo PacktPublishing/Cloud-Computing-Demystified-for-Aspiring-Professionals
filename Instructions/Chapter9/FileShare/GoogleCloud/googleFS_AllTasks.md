@@ -41,3 +41,5 @@ sudo mkdir /mnt/cceb
 sudo mount <enter-IP>:/vol1 /mnt/cceb
 ```
 1.	After you have successfully created and configured Google Cloud Filestore review the resource.
+
+> Note: Do not forget to delete all resources immediately to stop incurring charges
