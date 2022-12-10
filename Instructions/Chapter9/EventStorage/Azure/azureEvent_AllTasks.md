@@ -29,3 +29,5 @@ bash CreateEventGrid.sh
 bash PostEventData.sh
 ```
 1.	After you have executed the shell scripts successfully, review the Azure Storage Queue event data routed by the Event Grid Topic.
+
+  > Note: Do not forget to delete all resources immediately to stop incurring charges
