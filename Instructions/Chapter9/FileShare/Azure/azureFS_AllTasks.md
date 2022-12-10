@@ -46,3 +46,5 @@ az storage share-rm create \
 
 1.	Review all the important information detailed in the connect page for mounting Windows, Linux, including macOS
 
+> Note: Do not forget to delete all resources immediately to stop incurring charges
+
