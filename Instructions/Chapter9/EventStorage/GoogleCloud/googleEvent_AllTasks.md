@@ -74,3 +74,5 @@ gcloud eventarc triggers create events-cceb-trigger \
 ```
 13.	If you upload a file to Google Cloud Storage bucket. The event will generate event data that will send event messages to the Cloud Run service
 
+> Note: Do not forget to delete all resources immediately to stop incurring charges
+
