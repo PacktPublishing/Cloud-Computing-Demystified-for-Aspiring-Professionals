@@ -8,15 +8,12 @@
 ## Task 1: Configure Google Cloud Tasks queue
 
 1.	Sign in tointo the Google [Cloud Console](https://console.cloud.google.com/)
-2.	
+
 3.	In the Google Cloud console, on the project selector page, select or create a Google Cloud project.
-4.	
+
 5.	In the Google Cloud console, select Activate Cloud Shell.
-6.	
+
 7.	In the Cloud Shell command line, enter the following commands to create a Cloud Tasks queue:
-``` gcloud tasks queues create <EnterUniqueName> --location=<EnterLocation>
-```
-  
+``` gcloud tasks queues create <EnterUniqueName> --location=<EnterLocation> ```
 5.	Review queues in your current project by entering the following commands:
-``` gcloud tasks queues list --location=<EnterLocation>
-```
+``` gcloud tasks queues list --location=<EnterLocation> ```
