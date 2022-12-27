@@ -7,7 +7,7 @@
 
 ## Task 1: Configure SQS in AWS
 
-1.	Sign in to the AWS Management Console (https://console.aws.amazon.com/console/).
+1.	Sign in to the [AWS Management Console](https://console.aws.amazon.com/console/)
 
 3.	In the AWS management console, use the search field, enter Queue, and then select Queue.
 
