@@ -26,3 +26,5 @@
 17.	Enter RDS in the search field, and then select RDS.
 
 19.	In the Amazon RDS dashboard, select Databases and review the database instance you created utilizing Amazon CloudFormation’s template and designer.
+
+> Note: Do not forget to delete all resources immediately to stop incurring charges
