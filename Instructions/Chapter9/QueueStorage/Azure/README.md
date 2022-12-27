@@ -8,7 +8,7 @@ Cloud Computing Demystified for Aspiring Professionals:
 
 ## Objectives
 
--   Describe and configure an Azure Event Grid Topic.
+-  Describe and configure an Azure Queue storage
 
 
 ## Prerequisites
