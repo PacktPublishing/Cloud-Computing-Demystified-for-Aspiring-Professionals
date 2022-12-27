@@ -33,4 +33,4 @@
 
 25.	After adding the message, the console displays the messages in your queue.
 
-
+> Note: Do not forget to delete all resources immediately to stop incurring charges
