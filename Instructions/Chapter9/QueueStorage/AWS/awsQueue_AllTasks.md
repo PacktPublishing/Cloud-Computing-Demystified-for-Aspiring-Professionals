@@ -28,3 +28,5 @@
 19.	Select Send message.
 
 21.	Upon success, select View details to display the sent message.
+
+> Note: Do not forget to delete all resources immediately to stop incurring charges
