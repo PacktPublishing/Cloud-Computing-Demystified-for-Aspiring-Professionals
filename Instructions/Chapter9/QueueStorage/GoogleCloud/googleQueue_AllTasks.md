@@ -17,3 +17,5 @@
 ``` gcloud tasks queues create <EnterUniqueName> --location=<EnterLocation> ```
 5.	Review queues in your current project by entering the following commands:
 ``` gcloud tasks queues list --location=<EnterLocation> ```
+
+> Note: Do not forget to delete all resources immediately to stop incurring charges
