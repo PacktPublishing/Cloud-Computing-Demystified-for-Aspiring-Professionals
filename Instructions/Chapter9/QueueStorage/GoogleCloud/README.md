@@ -8,7 +8,7 @@ Cloud Computing Demystified for Aspiring Professionals:
 
 ## Objectives
 
--  Describe and configure Google Cloud Eventarc
+-  Describe and configure Google Cloud Tasks queue
 
 
 ## Prerequisites
