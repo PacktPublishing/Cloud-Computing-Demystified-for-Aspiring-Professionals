@@ -20,5 +20,5 @@ Cloud Computing Demystified for Aspiring Professionals:
 	    a. Use this resource for AWS, https://aws.amazon.com/free.
 
 ## Instructions
-- Review the file named awsEvent_AllTasks.md
+- Review the file named awsRDS_AllTasks.md
 
