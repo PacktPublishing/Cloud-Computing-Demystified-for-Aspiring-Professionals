@@ -8,11 +8,11 @@
 ## Task: Describe and create an S3 bucket
 
 1.	Sign into the [AWS Management Console](https://console.aws.amazon.com/console/)
-2.	
+
 3.	Launch the AWS CloudShell, select a region, and then select Shell.
-4.	
+
 5.	(Optionally) Upload a file to the CloudShell.
-6.	
+
 7.	In the CloudShell command line create a S3 bucket (container) by entering the following command:
 ```
 aws s3api create-bucket --bucket <enter-unique-bucket-name> --region us-east-1

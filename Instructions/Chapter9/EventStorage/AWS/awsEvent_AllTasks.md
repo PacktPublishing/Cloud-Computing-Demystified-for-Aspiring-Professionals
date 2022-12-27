@@ -71,3 +71,5 @@ https://console.aws.amazon.com/events/
 1.	Select Next, and then Next again.
 
 1.	Select Create a rule and then review your EventBridge resources
+
+> Note: Do not forget to delete all resources immediately to stop incurring charges
