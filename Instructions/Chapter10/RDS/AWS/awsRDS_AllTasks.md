@@ -2,7 +2,7 @@
 
 ## Prerequisite tasks
 
-1. Review instructions located in chapter 9 Configuring Storage Resources for Resiliency
+1. Review instructions located in chapter 10 Developing Database Service Resources at Scale
 > Note: After reviewing and complying with all required prerequisites return to this file and continue to the next task.
 
 ## Task 1: Developing Amazon Aurora DB table
