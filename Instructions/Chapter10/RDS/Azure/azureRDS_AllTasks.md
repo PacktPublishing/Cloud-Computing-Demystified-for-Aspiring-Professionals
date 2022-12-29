@@ -28,3 +28,4 @@
 
 10.	Select the Azure SQL database you created in the previous task and review the database settings.
 
+> Note: Do not forget to delete all resources immediately to stop incurring charges
