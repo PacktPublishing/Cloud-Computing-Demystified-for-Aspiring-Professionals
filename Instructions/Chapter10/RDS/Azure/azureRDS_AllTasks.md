@@ -16,11 +16,13 @@
 7.	Select Load file, and then select azuredeploy.json from the directory path ~Cloud-Computing-for-Beginners/blob/main/Allfiles/Chapter10/RDS/Azure/azuresqlDB/.
 
 9.	Select Save, and on the Custom deployment page, enter the following values for each field:
-  o	Subscription: Select your subscription
-  o	Region: Select your region
-  o	Server Admin Login: Enter your unique username
-  o	Server Admin Login Password: Enter your unique password
-  o	Ccebdb Name: sqldb
+    | Setting | Value |
+    | --- | --- |
+  	| Subscription | Select your subscription |
+  	| Region| Select your region |
+  	| Server Admin Login| Enter your unique username |
+  	| Server Admin Login Password| Enter your unique password |
+  	| Ccebdb Name| sqldb |
   
 6.	Select Review + create, and then select Create.
 
