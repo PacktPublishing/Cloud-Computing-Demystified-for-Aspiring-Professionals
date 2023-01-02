@@ -8,19 +8,20 @@
 ## Task 1: Develop Google Cloud BigQuery Service
 
 1.	Sign in to the [Google Cloud Console](https://console.cloud.google.com/)
-2.	
+
 3.	In the Google Cloud console, on the project selector page, select or create a Google Cloud project.
-4.	
+
 5.	Enable the BigQuery API.
-6.	
+
 7.	Search for BigQuery, and then select BigQuery.
-8.	
+
 9.	In the type to search field, enter  ` bigquery-public-data `
-10.	Select More Actions, and then select Open.
-11.	
-12.	In the BigQuery page, select + Compose new query and review the Editor field.
-13.	
-14.	In the Editor field, enter the following commands:
+
+11.	Select More Actions, and then select Open.
+
+13.	In the BigQuery page, select + Compose new query and review the Editor field.
+
+15.	In the Editor field, enter the following commands:
 ```
 SELECT
   name, gender,
@@ -36,4 +37,4 @@ LIMIT
 ```
 9.	After you enter the preceding code syntax, select Run
 
-
+> Note: Do not forget to delete all resources immediately to stop incurring charges
