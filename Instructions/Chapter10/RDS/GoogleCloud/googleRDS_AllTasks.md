@@ -30,3 +30,5 @@
 10.	Using the search field, enter sql, and then select Cloud SQL.
 
 12.	Review your Cloud SQL instance properties
+
+> Note: Do not forget to delete all resources immediately to stop incurring charges
