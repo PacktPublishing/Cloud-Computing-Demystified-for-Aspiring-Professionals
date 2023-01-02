@@ -33,3 +33,5 @@ aws dynamodb put-item \
         '{"CloudComputing": {"S": "AWS"}, "IaaS": {"S": "VM"}, "Compute": {"S": "EC2"}, "Managed": {"N": "0"}}'
 ```
 5.	After successfully creating your DynamoDB table, review the DynamoDB properties by navigating to the dashboard on the AWS management console.
+
+> Note: Do not forget to delete all resources immediately to stop incurring charges
