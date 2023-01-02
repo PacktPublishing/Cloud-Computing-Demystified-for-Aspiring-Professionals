@@ -23,3 +23,4 @@
 
 15.	Select Create cluster
 
+> Note: Do not forget to delete all resources immediately to stop incurring charges
