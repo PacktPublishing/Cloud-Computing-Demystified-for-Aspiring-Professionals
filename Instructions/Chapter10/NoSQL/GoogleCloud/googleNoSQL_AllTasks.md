@@ -17,3 +17,5 @@
 ` gcloud firestore databases create `
 
 5.	After successfully creating your Firestore database navigate to the dashboard and review its properties.
+
+> Note: Do not forget to delete all resources immediately to stop incurring charges
