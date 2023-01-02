@@ -26,3 +26,5 @@
 6.	After successfully creating the data warehouse service, select Overview.
 
 8.	In the Overview section, select Open Synapse Studio
+
+> Note: Do not forget to delete all resources immediately to stop incurring charges
