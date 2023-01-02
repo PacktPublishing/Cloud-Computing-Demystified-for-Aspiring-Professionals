@@ -19,3 +19,4 @@
 
 8.	After successfully creating the resource navigate to the dashboard and review its properties.
 
+> Note: Do not forget to delete all resources immediately to stop incurring charges
