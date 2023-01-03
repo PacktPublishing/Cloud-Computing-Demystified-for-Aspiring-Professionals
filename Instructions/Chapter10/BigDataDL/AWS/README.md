@@ -8,7 +8,7 @@ Cloud Computing Demystified for Aspiring Professionals:
 
 ## Objectives
 
--  Describe and develop Amazon Redshift
+-  Describe and develop AWS Lake Formation
 
 
 ## Prerequisites
