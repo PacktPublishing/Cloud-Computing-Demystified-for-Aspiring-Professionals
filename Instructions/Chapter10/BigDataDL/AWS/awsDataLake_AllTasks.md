@@ -20,3 +20,5 @@
 9.	Create and configure S3 location for data lake.
 
 11.	Prepare tables.
+
+> Note: Do not forget to delete all resources immediately to stop incurring charges
