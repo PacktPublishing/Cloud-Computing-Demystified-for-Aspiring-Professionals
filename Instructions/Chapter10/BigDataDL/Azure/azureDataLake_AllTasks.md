@@ -7,7 +7,7 @@
 > 
 > **Note**: The task steps are considered intermediate to expert thus the instructions are highlevel making the task challenging. Try this challenge without using step-by-step instructions. AWS Documentation includes instructions if the challenge is to difficult.
 
-## Task 1: Develop AWS Lake Formation
+## Task 1: Develop Azure Data Lake
 
 1.	Sign in to the [Azure Portal](https://portal.azure.com/)
 2.	
