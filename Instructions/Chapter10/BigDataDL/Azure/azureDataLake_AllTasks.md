@@ -10,19 +10,19 @@
 ## Task 1: Develop Azure Data Lake
 
 1.	Sign in to the [Azure Portal](https://portal.azure.com/)
-2.	
+
 3.	Create a Storage Account.
-4.	
+
 5.	Configure Azure Data Lake Storage Gen2 on the Storage Account.
-6.	
+
 7.	Download AzCopy.
-8.	
+
 9.	Download the Bureau of Transportation Statistic files.
-10.	
+
 11.	Copy the files to your Azure Data Lake.
-12.	
+
 13.	Create or reuse Azure Synapse Analytics from the section herein titled Developing Data Warehouse Services.
-14.	
+
 15.	And lastly, explore your data using SQL queries like the following:
 ```
 SELECT
