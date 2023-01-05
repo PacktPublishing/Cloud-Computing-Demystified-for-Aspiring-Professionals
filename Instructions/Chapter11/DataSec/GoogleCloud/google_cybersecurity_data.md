@@ -27,3 +27,4 @@
 
 3.	Select your Cloud SQL instance and review the default settings.
 
+> Note: Do not forget to delete all resources immediately to stop incurring charges
