@@ -32,3 +32,4 @@
 
 > Note: DynamoDB tables are encrypted by default.
 
+> Note: Do not forget to delete all resources immediately to stop incurring charges
