@@ -8,7 +8,7 @@ Cloud Computing Demystified for Aspiring Professionals:
 
 ## Objectives
 
--   Describe and develop Azure Data Lake
+-   Describe and implement built-in data security for managed disks and Azure SQL Database
 
 
 ## Prerequisites
