@@ -20,3 +20,4 @@
 7. Require HTTPS by selecting TLS/SSL settings.
 8. Set HTTPS Only to On.
 
+> Note: Do not forget to delete all resources immediately to stop incurring charges
