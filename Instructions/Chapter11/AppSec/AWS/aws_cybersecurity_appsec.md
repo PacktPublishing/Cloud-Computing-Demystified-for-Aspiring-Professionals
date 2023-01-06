@@ -28,3 +28,4 @@
 > Note: Configure a listener and assign a certificate. Please use the following link to complete all necessary tasks: 
 > Link: https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/configuring-https-elb.html
 
+> Note: Do not forget to delete all resources immediately to stop incurring charges
