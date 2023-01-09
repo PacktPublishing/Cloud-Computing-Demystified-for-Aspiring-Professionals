@@ -25,4 +25,4 @@ Link: [How to setup a custom domain](https://cloud.google.com/appengine/docs/leg
 
 7. Review the managed SSL security displays as Google managed.
 
-
+> Note: Do not forget to delete all resources immediately to stop incurring charges
