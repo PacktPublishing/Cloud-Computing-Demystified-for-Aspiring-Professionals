@@ -8,7 +8,7 @@ Cloud Computing Demystified for Aspiring Professionals:
 
 ## Objectives
 
--  Describe and implement data security in Google Cloud
+-  Describe and implement application security in Google Cloud
 
 
 ## Prerequisites
@@ -20,5 +20,5 @@ Cloud Computing Demystified for Aspiring Professionals:
 	    a. https://cloud.google.com/free/
 
 ## Instructions
-- Review the file named google_cybersecurity_data.md
+- Review the file named google_cybersecurity_appsec.md
 
