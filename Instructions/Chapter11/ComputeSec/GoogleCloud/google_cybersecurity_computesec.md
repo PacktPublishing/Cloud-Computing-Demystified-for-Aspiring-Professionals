@@ -22,4 +22,6 @@ gcloud compute snapshots create <placeholder> \
     --source-disk <placeholder> \
     --source-disk-zone <placeholder>
 ```
-7. placeholder
+7. In the Google Cloud console, search for your VM instance, and review the VM instance disk properties.
+
+
