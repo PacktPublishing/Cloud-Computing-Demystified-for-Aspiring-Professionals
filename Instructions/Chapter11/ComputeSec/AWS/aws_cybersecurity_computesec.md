@@ -19,3 +19,5 @@
 8.	For Volume ID, select the volume from which to create the snapshot.
 
 10.	Choose Create snapshot.
+
+> Note: Do not forget to delete all resources immediately to stop incurring charges
