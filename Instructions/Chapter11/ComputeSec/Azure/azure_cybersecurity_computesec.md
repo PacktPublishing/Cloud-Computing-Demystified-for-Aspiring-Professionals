@@ -15,9 +15,9 @@
 4.	In the Cloud Shell command line interface enter the following commands and replace all place holders with unique values:
 ```
 # Create variables
-diskName="<place holder>"
-resourceGroupName="<place holder>"
-snapshotName="<place holder>"
+diskName="<placeholder>"
+resourceGroupName="<placeholder>"
+snapshotName="<placeholder>"
 ```
 ```
 # Select the disk to backup
@@ -29,3 +29,4 @@ az snapshot create -g $resourceGroupName -n $snapshotName --source $yourDiskID -
 ```
 5. In the Azure portal, search for your Azure VM, and review the VM disk settings.
 
+> Note: Do not forget to delete all resources immediately to stop incurring charges
