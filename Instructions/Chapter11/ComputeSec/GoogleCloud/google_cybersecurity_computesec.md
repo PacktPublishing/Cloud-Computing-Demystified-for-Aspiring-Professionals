@@ -13,9 +13,9 @@
 > Note: You will need to create a Compute Engine instance. To create a Compute Engine instance, use the instructions in Chapter 8.
 
 2.	In the Google Cloud console, on the project selector page, select or create a Google Cloud project.
-3.	
+
 4.	Select, Activate Cloudshell.
-5.	
+
 6.	In the Cloudshell command line interface enter the following command and replace any placeholders with unique values:
 ```
 gcloud compute snapshots create <placeholder> \
@@ -24,4 +24,4 @@ gcloud compute snapshots create <placeholder> \
 ```
 7. In the Google Cloud console, search for your VM instance, and review the VM instance disk properties.
 
-
+> Note: Do not forget to delete all resources immediately to stop incurring charges
