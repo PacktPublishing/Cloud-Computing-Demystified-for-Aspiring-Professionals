@@ -20,5 +20,5 @@ Cloud Computing Demystified for Aspiring Professionals:
 	    a. Use this resource for AWS, https://aws.amazon.com/free.
 
 ## Instructions
-- Review the file named aws_cybersecurity_appsec.md
+- Review the file named aws_cybersecurity_computesec.md
 
