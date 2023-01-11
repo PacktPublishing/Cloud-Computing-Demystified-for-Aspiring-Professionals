@@ -24,3 +24,4 @@
 
 14.	Add the rule number, type, protocol, port, source, or destination, and either allow or deny based on your security control requirements.
 
+> Note: Do not forget to delete all resources immediately to stop incurring charges
