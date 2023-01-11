@@ -38,4 +38,4 @@ gcloud compute firewall-rules create NAME \
 
 9. Review the firewall rules.
 
-
+> Note: Do not forget to delete all resources immediately to stop incurring charges
