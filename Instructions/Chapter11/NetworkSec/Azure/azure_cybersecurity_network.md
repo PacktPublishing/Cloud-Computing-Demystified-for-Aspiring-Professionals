@@ -29,3 +29,5 @@
 18.	Select + Associate
 
 20.	Select your VNET, and then select OK
+
+> Note: Do not forget to delete all resources immediately to stop incurring charges
