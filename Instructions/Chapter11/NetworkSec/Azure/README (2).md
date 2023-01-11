@@ -22,5 +22,5 @@ Cloud Computing Demystified for Aspiring Professionals:
       b. https://azure.microsoft.com/en-us/free/free-account-faq/
 
 ## Instructions
-- Review the file named azure_cybersecurity_networksec.md
+- Review the file named azure_cybersecurity_network.md
 
