@@ -10,8 +10,11 @@
 1.	Sign in to the [Azure Portal](https://portal.azure.com/)
 
 3.	Select Azure Active Directory.
+>**Note**: If prompted to trial a free premium Azure Active Directory account to use this feature, proceed accepting each prompt to activate premium features.
 
 5.	Select Security.
+![image](https://user-images.githubusercontent.com/61672321/212175079-677b423a-5225-4fac-b7b0-88bc9f7e273d.png)
+
 
 7.	Select Conditional Access.
 
