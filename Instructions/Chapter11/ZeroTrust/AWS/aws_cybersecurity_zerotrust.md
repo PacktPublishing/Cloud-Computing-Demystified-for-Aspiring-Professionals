@@ -5,7 +5,7 @@
 1. Review instructions located in chapter 11 Implementing Native Cyber Security Controls
 > Note: After reviewing and complying with all required prerequisites return to this file and continue to the next task.
 
-## Task 1: Configure built-in App security using TLS
+## Task 1: Managing AWS MFA
 
 1.	Sign in to the [AWS Management Console](https://console.aws.amazon.com/console/)
 
@@ -21,3 +21,5 @@
 > Note: Use the following link to review the steps required to enable MFA:
 
 > https://docs.aws.amazon.com/singlesignon/latest/userguide/mfa-enable-how-to.html
+
+> Note: Do not forget to delete all resources immediately to stop incurring charges
