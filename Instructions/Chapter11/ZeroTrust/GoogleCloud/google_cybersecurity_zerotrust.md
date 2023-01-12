@@ -35,3 +35,5 @@
 > **Note**: Use the following link to review the steps required to enable MFA:
 
 > Link: https://cloud.google.com/identity-platform/docs/web/mfa
+
+> Note: Do not forget to delete all resources immediately to stop incurring charges
