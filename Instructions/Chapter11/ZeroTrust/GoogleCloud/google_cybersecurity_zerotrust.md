@@ -25,6 +25,9 @@
 
 16.	Select MFA.
 
+![image](https://user-images.githubusercontent.com/61672321/212178858-ba8d227e-0f8d-48d0-9a51-2581ad609f28.png)
+
+
 18.	Select ENABLE on the Multi-Factor Authentication page.
 **Note** Review and comply with the following information in step 11.
 
