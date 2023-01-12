@@ -38,3 +38,5 @@
 > **Note**: Use the following link to review the steps required to enable MFA:
 
 > Link: https://learn.microsoft.com/en-us/azure/active-directory/authentication/tutorial-enable-azure-mfa
+
+> Note: Do not forget to delete all resources immediately to stop incurring charges
