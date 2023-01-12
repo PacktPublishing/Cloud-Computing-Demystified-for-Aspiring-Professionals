@@ -17,6 +17,9 @@
 
 > **Note** Review and comply with the following information located after step 5.
 
+![image](https://user-images.githubusercontent.com/61672321/212172393-b1ac4e28-ac98-4a0b-9593-fe4eb5add728.png)
+
+
 5.	Configure and Managing Identity and Access Management MFA.
 > Note: Use the following link to review the steps required to enable MFA:
 
