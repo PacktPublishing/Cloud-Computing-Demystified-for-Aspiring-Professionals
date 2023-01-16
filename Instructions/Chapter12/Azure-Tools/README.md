@@ -23,4 +23,7 @@ Cloud Computing Demystified for Aspiring Professionals:
 
 ## Instructions
 - Review the file named azure_console_apitools.md
+- Review the file named azure_CLI_apitools.md
+- Review the file named azure_InfrastructureAsCode_apitools.md
+- Review the file named azure_SoftwareDeveloper_apitools.md
 
