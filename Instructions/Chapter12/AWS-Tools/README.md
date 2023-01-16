@@ -9,6 +9,9 @@ Cloud Computing Demystified for Aspiring Professionals:
 ## Objectives
 
 -  Utilize the AWS Management Console
+-  learn the AWS CLI fundamentals
+-  learn the AWS CloudFormation fundamentals
+-  learn the AWS SDK fundamentals
 
 
 ## Prerequisites
@@ -21,4 +24,5 @@ Cloud Computing Demystified for Aspiring Professionals:
 
 ## Instructions
 - Review the file named aws_console_apitools.md
+- Review the file named aws_CLI_apitools.md
 
