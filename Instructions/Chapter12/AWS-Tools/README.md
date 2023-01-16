@@ -25,4 +25,5 @@ Cloud Computing Demystified for Aspiring Professionals:
 ## Instructions
 - Review the file named aws_console_apitools.md
 - Review the file named aws_CLI_apitools.md
+- Review the file named aws_InfrastructureAsCode_apitools.md
 
