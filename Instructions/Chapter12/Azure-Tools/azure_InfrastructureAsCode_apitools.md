@@ -35,4 +35,6 @@
 
 > **Note**: If you did not have an opportunity to learn how to use ARM templates by creating a resource, then I recommend revisiting the chapter titled Launching Compute Service Resources for Scalability.
 
+> Note: Do not forget to delete all resources immediately to stop incurring charges
+
 
