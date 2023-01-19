@@ -47,3 +47,5 @@
 
 > Note: Did you know that you can reuse stack templates? For more information I recommend reviewing the book.
 
+> Note: Do not forget to delete all resources immediately to stop incurring charges
+

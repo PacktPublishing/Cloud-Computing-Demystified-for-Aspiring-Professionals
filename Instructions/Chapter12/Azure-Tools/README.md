@@ -9,6 +9,9 @@ Cloud Computing Demystified for Aspiring Professionals:
 ## Objectives
 
 -   Utilize the Azure portal
+-   Learn the Azure CLI essentials
+-   Learn the Azure ARM template essentials
+-   Learn the Azure SDK essentials
 
 
 ## Prerequisites
@@ -23,4 +26,7 @@ Cloud Computing Demystified for Aspiring Professionals:
 
 ## Instructions
 - Review the file named azure_console_apitools.md
+- Review the file named azure_CLI_apitools.md
+- Review the file named azure_InfrastructureAsCode_apitools.md
+- Review the file named azure_SoftwareDeveloper_apitools.md
 
