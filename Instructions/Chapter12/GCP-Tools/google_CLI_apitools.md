@@ -29,4 +29,4 @@
 ` gcloud GROUP | COMMAND [--account=ACCOUNT] `
 11. Google Cloud CLI commands comprise a call to GCP services, such as iam, and a command.
 
-
+> **Note**: If you missed the opportunity to learn how to use the Google Cloud CLI to create a resource, then I recommend revisiting Chapter 8.
