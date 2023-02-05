@@ -1,3 +1,3 @@
-copy scientist_users from 's3://<s3bucketname>/scientist_users.txt' 
+copy patient_users from 's3://<s3bucketname>/patient_users.csv' 
 iam_role default
-delimiter '|' region '<aws region>';
+delimiter ',' region '<aws region>';

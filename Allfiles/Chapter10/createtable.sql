@@ -1,4 +1,4 @@
-create table scientist_users(
+create table patient_users(
     userid integer not null distkey sortkey,
     username char(20),
     firstname varchar(100),
