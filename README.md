@@ -60,3 +60,8 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **David Santana**
 He is a multi-cloud architect and certified trainer, with over 20 years of IT training, consulting and leadership. He’s been providing dedicated services to Microsoft, Amazon, and Google business partners like Deloitte, Accenture, Humana, ABB, and public sector agencies CJIS, including the DoD and Veteran services. He has created self-paced multi-cloud courses like Azure resources for AWS architects. He is also the lead program developer for the Los Angeles Veterans Technology Training Academy, an initiative that trains and mentors to empower veterans.
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781803243313">https://packt.link/free-ebook/9781803243313 </a> </p>
