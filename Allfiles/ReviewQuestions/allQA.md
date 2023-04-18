@@ -363,3 +363,184 @@ Answer: D
     D. Architecture
 
 Answer: D
+
+__
+
+Chapter: Understanding the Benefits of Public Clouds (AWS, Azure, and GCP)
+
+1. What criteria were measured and plotted in the Magic Quadrant research regarding cloud
+computing? (Choose all that apply.)
+
+    A. Resiliency
+
+    B. CPU
+
+    C. The ability to execute
+
+    D. The completeness of vision
+
+2. What cloud location options are available to host your services?
+
+    A. Datacenter
+
+    B. On-premises
+
+    C. Wi-Fi
+
+    D. Region (for example, East US)
+
+3. What are edge zones or locations?
+
+    A. PoPs
+
+    B. PPTP
+
+    C. Perimeter
+
+    D. Router
+
+4. How are modern cloud computing datacenters more eco-friendly than on-premises?
+
+    A. Comprehensive efficiency programs
+
+    B. Apple hardware
+
+    C. Dell hardware
+
+    D. Tesla
+
+5. What is a geographical region?
+
+    A. Container
+
+    B. Ephemeral
+
+    C. Physical location
+
+    D. Mainframe
+
+6. What are the benefits of availability zones?
+
+    A. Scale
+
+    B. Performance
+
+    C. Cost optimization
+
+    D. Fault tolerance
+
+7. Are cloud-managed disk types replicated to increase resiliency by default?
+
+    A. Yes
+
+    B. No
+
+8. What is availability?
+
+    A. RPO
+
+    B. No failures
+
+    C. The percentage of time that a service is available
+
+    D. Scheduled availability
+
+9. What are cloud computing virtual machines?
+
+    A. Managed
+
+    B. IaaS
+
+    C. Kernel virtual machine hosts
+
+    D. Docker cloud
+
+10. Which of the following characteristics apply to virtual machines?
+
+    A. Regional
+
+    B. Global
+
+    C. Zonal
+
+    D. Rack
+
+
+11. What are AWS S3, Azure Blob, and GCP’s cloud storage (object-level storage types)?
+
+    A. Archive
+
+    B. Regional
+
+    C. IaaS
+
+    D. Databases
+
+12. Do resilient cloud workloads require disaster recovery strategies?
+
+    A. Yes
+
+    B. No
+
+13. What does RTO define?
+
+    A. Acceptable loss of data
+
+    B. Resiliency time options
+
+    C. Fault tolerance
+
+    D. Acceptable time frame
+
+14. What does RPO define?
+
+    A. Fault tolerance
+
+    B. Kernel isolation
+
+    C. Acceptable loss of data
+
+    D. Acceptable time frame
+
+15. Scaling optimizes which of the following?
+
+    A. Unpredictable workloads
+
+    B. Predictable workloads
+
+    C. Availability
+
+    D. Network bandwidth
+
+16. Which of the following is autoscaling’s minimum recommended architecture?
+
+    A. One Availability Zone
+
+    B. Two Availability Zone
+
+    C. Multi-Region
+
+    D. None
+
+17. Amazon and Google, excluding Microsoft, created the operational excellence well-architected
+framework pillars.
+
+    A. True
+
+    B. False
+
+18. Reliability is built into cloud computing and does not require design recommendations.
+
+    A. True
+
+    B. False
+
+19. What are the costs, if any, of using two or more region locations?
+
+    A. Pay for the site
+
+    B. Manage the physical infrastructure
+
+    C. Ingress and egress network traffic
+
+    D. Free
