@@ -366,7 +366,7 @@ Answer: D
 
 __
 
-Chapter: Understanding the Benefits of Public Clouds (AWS, Azure, and GCP)
+# Chapter: Understanding the Benefits of Public Clouds (AWS, Azure, and GCP)
 
 1. What criteria were measured and plotted in the Magic Quadrant research regarding cloud
 computing? (Choose all that apply.)
