@@ -379,6 +379,8 @@ computing? (Choose all that apply.)
 
     D. The completeness of vision
 
+Answer: C, D
+
 2. What cloud location options are available to host your services?
 
     A. Datacenter
@@ -388,6 +390,8 @@ computing? (Choose all that apply.)
     C. Wi-Fi
 
     D. Region (for example, East US)
+
+Answer: D
 
 3. What are edge zones or locations?
 
@@ -399,6 +403,8 @@ computing? (Choose all that apply.)
 
     D. Router
 
+Answer: A
+
 4. How are modern cloud computing datacenters more eco-friendly than on-premises?
 
     A. Comprehensive efficiency programs
@@ -408,6 +414,8 @@ computing? (Choose all that apply.)
     C. Dell hardware
 
     D. Tesla
+
+Answer: A
 
 5. What is a geographical region?
 
@@ -419,6 +427,8 @@ computing? (Choose all that apply.)
 
     D. Mainframe
 
+Answer: C
+
 6. What are the benefits of availability zones?
 
     A. Scale
@@ -429,11 +439,15 @@ computing? (Choose all that apply.)
 
     D. Fault tolerance
 
+Answer: D
+
 7. Are cloud-managed disk types replicated to increase resiliency by default?
 
     A. Yes
 
     B. No
+
+Answer: A
 
 8. What is availability?
 
@@ -445,6 +459,8 @@ computing? (Choose all that apply.)
 
     D. Scheduled availability
 
+Answer: C
+
 9. What are cloud computing virtual machines?
 
     A. Managed
@@ -454,6 +470,8 @@ computing? (Choose all that apply.)
     C. Kernel virtual machine hosts
 
     D. Docker cloud
+
+Answer: B
 
 10. Which of the following characteristics apply to virtual machines?
 
@@ -465,6 +483,7 @@ computing? (Choose all that apply.)
 
     D. Rack
 
+Answer: D
 
 11. What are AWS S3, Azure Blob, and GCP’s cloud storage (object-level storage types)?
 
@@ -476,11 +495,15 @@ computing? (Choose all that apply.)
 
     D. Databases
 
+Answer: B
+
 12. Do resilient cloud workloads require disaster recovery strategies?
 
     A. Yes
 
     B. No
+
+Answer: A
 
 13. What does RTO define?
 
@@ -492,6 +515,8 @@ computing? (Choose all that apply.)
 
     D. Acceptable time frame
 
+Answer: D
+
 14. What does RPO define?
 
     A. Fault tolerance
@@ -501,6 +526,8 @@ computing? (Choose all that apply.)
     C. Acceptable loss of data
 
     D. Acceptable time frame
+
+Answer: C
 
 15. Scaling optimizes which of the following?
 
@@ -512,6 +539,8 @@ computing? (Choose all that apply.)
 
     D. Network bandwidth
 
+Answer: A
+
 16. Which of the following is autoscaling’s minimum recommended architecture?
 
     A. One Availability Zone
@@ -522,6 +551,8 @@ computing? (Choose all that apply.)
 
     D. None
 
+Answer: B
+
 17. Amazon and Google, excluding Microsoft, created the operational excellence well-architected
 framework pillars.
 
@@ -529,11 +560,15 @@ framework pillars.
 
     B. False
 
+Answer: B
+
 18. Reliability is built into cloud computing and does not require design recommendations.
 
     A. True
 
     B. False
+
+Answer: B
 
 19. What are the costs, if any, of using two or more region locations?
 
@@ -544,3 +579,106 @@ framework pillars.
     C. Ingress and egress network traffic
 
     D. Free
+
+Answer: C
+
+__
+
+# Chapter: Developing Infrastructure Services Using Public Cloud Providers (IaaS)
+
+1. What is IaaS?
+
+    A. Infrastructure as a software
+
+    B. Infrastructure anywhere and systems
+
+    C. Infrastructure as a service
+
+    D. Infrastructure API as code
+
+2. Where is IaaS implemented?
+
+    A. Private cloud
+
+    B. Public cloud
+
+    C. Local Linux and Windows hosts
+
+    D. On-premises
+
+3. Which factors should you consider when architecting cloud network services?
+
+    A. Installing network hardware
+
+    B. Internet protocol addressing
+
+    C. Configuring a VLAN
+
+    D. None of the above
+
+4. What governance factor should you consider when storing data?
+
+    A. Tech manufacturer
+
+    B. Internet service provider
+
+    C. Data sovereignty
+
+    D. NoSQL
+
+5. Which statement is true regarding cloud computing IP addressing?
+
+    A. Supports overlapping IP addressing
+
+    B. Does not support overlapping IP addressing
+
+    C. Supports classful IP addressing
+
+    D. None of these options
+
+6. Cloud computing providers manage and do not share responsibility for security in the cloud
+with customers.
+
+    A. True
+
+    B. False
+
+7. What scaling options are available for cloud computing?
+
+    A. Scale out
+
+    B. Scale in
+
+    C. Scale up
+
+    D. Scale down
+
+8. What do cloud computing monitoring services analyze?
+
+    A. Firmware
+
+    B. Metrics
+
+    C. Voltage
+
+    D. None of the above
+
+9. Which of the following storage hard drives supports cloud devices?
+
+    A. Floppy disk
+
+    B. USB
+
+    C. Solid-state drives
+
+    D. Ephemeral
+
+10. What does the customer manage in IaaS from the Shared Responsibility Model?
+
+    A. Networking hardware
+
+    B. Storage hardware
+
+    C. Virtualization
+
+    D. Guest operating system
