@@ -364,7 +364,7 @@ Answer: D
 
 Answer: D
 
-__
+___
 
 # Chapter: Understanding the Benefits of Public Clouds (AWS, Azure, and GCP)
 
@@ -582,7 +582,7 @@ Answer: B
 
 Answer: C
 
-__
+___
 
 # Chapter: Developing Infrastructure Services Using Public Cloud Providers (IaaS)
 
@@ -596,6 +596,8 @@ __
 
     D. Infrastructure API as code
 
+Answer: C
+
 2. Where is IaaS implemented?
 
     A. Private cloud
@@ -605,6 +607,8 @@ __
     C. Local Linux and Windows hosts
 
     D. On-premises
+
+Answer: B
 
 3. Which factors should you consider when architecting cloud network services?
 
@@ -616,6 +620,8 @@ __
 
     D. None of the above
 
+Answer: B
+
 4. What governance factor should you consider when storing data?
 
     A. Tech manufacturer
@@ -625,6 +631,8 @@ __
     C. Data sovereignty
 
     D. NoSQL
+
+Answer: C
 
 5. Which statement is true regarding cloud computing IP addressing?
 
@@ -636,12 +644,16 @@ __
 
     D. None of these options
 
+Answer: B
+
 6. Cloud computing providers manage and do not share responsibility for security in the cloud
 with customers.
 
     A. True
 
     B. False
+
+Answer: B
 
 7. What scaling options are available for cloud computing?
 
@@ -653,6 +665,8 @@ with customers.
 
     D. Scale down
 
+Answer: A,B,C,D
+
 8. What do cloud computing monitoring services analyze?
 
     A. Firmware
@@ -662,6 +676,8 @@ with customers.
     C. Voltage
 
     D. None of the above
+
+Answer: B
 
 9. Which of the following storage hard drives supports cloud devices?
 
@@ -673,6 +689,8 @@ with customers.
 
     D. Ephemeral
 
+Answer: C
+
 10. What does the customer manage in IaaS from the Shared Responsibility Model?
 
     A. Networking hardware
@@ -682,3 +700,181 @@ with customers.
     C. Virtualization
 
     D. Guest operating system
+
+Answer: D
+
+___
+
+# Chapter: Developing Platform Services Using Public Cloud Providers (PaaS)
+
+1. What does PaaS stand for?
+
+    A. Public access anywhere services
+
+    B. Private access anywhere services
+
+    C. Platform as a service
+
+    D. None of these
+
+Answer: C
+
+2. What does an API provide?
+
+    A. Software and protocols for systems and services to integrate or communicate
+
+    B. The iPhone user interface
+
+    C. An Amazon platform interface network
+
+    D. JavaScript
+
+Answer: A
+
+3. What is DNS?
+
+    A. IP address
+
+    B. Domain Name System
+
+    C. Wide-area network
+
+    D. None of these
+
+Answer: B
+
+4. Kubernetes falls under which category?
+
+    A. SaaS
+
+    B. Serverless
+
+    C. IaaS
+
+    D. PaaS
+
+Answer: D
+
+5. Elasticity includes which of the following options?
+
+    A. I/O
+
+    B. AI
+
+    C. Horizontal scaling
+
+    D. None of these
+
+Answer: C
+
+6. With serverless resources, you are responsible for which of the following?
+
+    A. Application code
+
+    B. Hardware
+
+    C. Guest operating system
+
+    D. Infrastructure
+
+Answer: A
+
+7. Which of the following are non-relational databases?
+
+    A. RDMS
+
+    B. Google Docs
+
+    C. S3
+
+    D. NoSQL
+
+Answer: D
+
+8. PaaS provides which of the following benefits?
+
+    A. Greater control than IaaS
+
+    B. Greater convenience than IaaS
+
+    C. Completely customer managed
+
+    D. None of these
+
+Answer: B
+___
+
+# Chapter: Utilizing Turnkey Software Solutions (SaaS)
+
+1. What does SaaS stand for?
+
+    A. Software available anywhere systems
+
+    B. Services available anywhere systems
+
+    C. Serverless available anywhere systems
+
+    D. Software as a service
+
+Answer: D
+
+2. What can I buy from cloud computing providers' marketplace?
+
+    A. Hardware
+
+    B. Phone plans
+
+    C. Data centers
+
+    D. Software
+
+Answer: D
+
+3. What can I sell on the cloud computing providers' marketplace?
+
+    A. Applications
+
+    B. Infrastructure
+
+    C. Cisco hardware
+
+    D. None of the above
+
+Answer: A
+
+4. Which of the following describes SaaS?
+
+    A. Customer managed
+
+    B. Fully managed
+
+    C. Made up of virtual machine instances
+
+    D. None of the above
+
+Answer: B
+
+5. SaaS is which of the following?
+
+    A. Highly available
+
+    B. Not secure
+
+    C. Does not support MFA
+
+    D. None of the above
+
+Answer: A
+
+6. Which of the following are examples of SaaS? (Choose all that apply)
+
+    A. Google Docs
+
+    B. Microsoft 365
+
+    C. Serverless
+
+    D. Linux GNOME
+
+Answer: A, B
+
