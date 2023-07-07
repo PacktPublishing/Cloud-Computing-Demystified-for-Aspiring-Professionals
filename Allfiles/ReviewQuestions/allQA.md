@@ -878,3 +878,258 @@ Answer: A
 
 Answer: A, B
 
+---------------------------------------------------
+# Chapter: Implementing Virtual Network Resources for Security
+
+1. What is a VPC?
+   
+    A. VM
+   
+    B. Container
+   
+    C. Virtual Network
+   
+    D. None of these
+   
+Answer: C
+   
+3. What is a VNet?
+   
+    A. Virtual network
+   
+    B. VM image
+   
+    C. VPN
+   
+    D. None of these
+Answer: A
+4. Which of the following is a known characteristics of a VPC?
+   
+    A. Public
+   
+    B. Private
+   
+    C. Hardware
+   
+    D. On-premises
+Answer:B
+   
+6. Which of the following is a known characteristic of a VNet?
+   
+    A. Private
+   
+    B. Public
+   
+    C. Hardware
+   
+    D. On-premises
+Answer:A
+
+8. Which of the following is a known characteristic of a VPC and a VNet?
+    
+    A. Public
+   
+    B. Virtual box
+   
+    C. Default route table
+   
+    D. OSI model layer 1
+Answer: C
+
+10. Which of the following is a known characteristic of a load balancer?
+    A. Scales
+   
+    B. Isolates failure
+   
+    C. Distributes ingress traffic to targets
+   
+    D. Provides intrusion prevention
+Answer: C
+12. Which of the following options is common for load balancers across AWS, Azure, and GCP?
+    A. Layer 4
+    
+    B. Layer 1
+    
+    C. Code analysis
+    
+    D. Content delivery networks (CDNs)
+Answer: A
+14. Site-to-site VPN is used in which of the common scenario options?
+    A. Public
+    
+    B. Hybrid
+    
+    C. VLAN
+    
+    D. None of these
+Answer:B
+
+16. Which of the following is a known characteristic of cloud VPN gateways?
+    A. Single-tunnel
+    
+    B. Multi-tunnel
+    
+    C. Unlimited tunnels per gateway
+    
+    D. Default service-level agreement (SLA) 99.9999999999
+Answer: B
+
+18. Which of the following cloud VPN configuration tools are supported across AWS, Azure, 
+    and GCP?
+    A. Management portal
+    
+    B. Bash shell
+    
+    C. CLI
+    
+    D. None of these
+Answer: C
+
+---------------------------------------------------
+# Chapter: Launching Compute Service Resources for Scalability
+
+1. Which of the following options is accurate when creating a VM instance?
+    A. Hardware procurement
+   
+    B. Configuring the Linux Kernel-based VM (KVM) host
+   
+    C. Scaling
+   
+    D. None of the above
+Answer: C
+
+3. Which option is configurable during the EC2 launch configuration process?
+    A. AMI
+   
+    B. Graphics card installation
+   
+    C. I/O port installation
+   
+    D. None of the above
+Answer: A
+
+5. Microsoft Azure VM images and AMIs currently support which of the following (choose all 
+    that apply)?
+    A. Windows
+   
+    B. Linux
+   
+    C. iOS
+   
+    D. Chromebooks
+Answer:A, B
+
+7. Google Cloud Compute Engine supports which of the following options?
+    A. Windows
+   
+    B. Chromebooks
+   
+    C. iOS
+   
+    D. None of the above
+Answer: A
+9. Does Amazon’s Elastic Beanstalk require administrators to manually implement EC2 instances 
+    before creating an application environment?
+    A. Yes
+   
+    B. No
+Answer: B
+
+11. Does Azure App Service require administrators to manually implement the Docker container 
+    configuration before creating an App Service plan, which acts as a host and supports 
+    capacity management?
+    A. Yes
+    
+    B. No
+Answer: B
+
+13. Which of the following object-oriented programming (OOP) languages is supported by Google 
+    App Engine?
+    A. Python
+    
+    B. .NET
+    
+    C. JSON
+    
+    D. None of the above
+Answer: A, B
+
+15. Which cloud computing provider supports Docker containers?
+    A. AWS
+    
+    B. Azure
+    
+    C. GCP
+    
+    D. None of the above
+Answer: A, B, C
+
+17. Traditional organizations have concerns with creating new VNets due to IP addressing constraints. 
+    Can you select a preexisting VPC during EKS configuration?
+    A. Yes
+    
+    B. No
+Answer:A
+
+19. Which of the following options are recommended for accelerating EKS configuration and creation?
+    A. AWS Management portal
+    
+    B. Bash shell
+    
+    C. CloudFormation
+    
+    D. ARM templates
+Answer: C
+
+21. Which of the following options are recommended for version control with AKS configuration?
+    A. AKS
+    
+    B. Local host Git repo
+    
+    C. ACR
+    
+    D. GKS
+Answer:C
+
+23. GKE, AKS, and EKS support which of the following management options?
+    A. JavaScript
+    
+    B. kubectl
+    
+    C. Zonal
+    
+    D. None of the above
+Answer:B
+
+25. Which of the following VM maintenance options are you responsible for with AWS, Azure, 
+    and GCP functions?
+    A. Hardware
+    
+    B. Guest operating system
+    
+    C. Implementing the runtime environment
+    
+    D. None of the above
+Answer:B
+
+27. Which of the following coincides with serverless resource types?
+    A. Auto-scaling
+    
+    B. Tightly coupled
+    
+    C. On-premises
+    
+    D. HTML websites
+Answer: A
+
+29. Which of the following are supported across AWS, Azure, and GCP functions?
+    A. Events
+    
+    B. Big data storage
+    
+    C. Bash shell
+    
+    D. None of the above
+Answer: A
+---------------------------------------------------
+# Chapter: Configuring Storage Resources for Resiliency
