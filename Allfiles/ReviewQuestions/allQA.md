@@ -902,8 +902,10 @@ Answer: C
     C. VPN
    
     D. None of these
+   
 Answer: A
-4. Which of the following is a known characteristics of a VPC?
+
+5. Which of the following is a known characteristics of a VPC?
    
     A. Public
    
@@ -912,9 +914,10 @@ Answer: A
     C. Hardware
    
     D. On-premises
+   
 Answer:B
    
-6. Which of the following is a known characteristic of a VNet?
+7. Which of the following is a known characteristic of a VNet?
    
     A. Private
    
@@ -923,9 +926,10 @@ Answer:B
     C. Hardware
    
     D. On-premises
+   
 Answer:A
 
-8. Which of the following is a known characteristic of a VPC and a VNet?
+9. Which of the following is a known characteristic of a VPC and a VNet?
     
     A. Public
    
@@ -934,9 +938,10 @@ Answer:A
     C. Default route table
    
     D. OSI model layer 1
+   
 Answer: C
 
-10. Which of the following is a known characteristic of a load balancer?
+11. Which of the following is a known characteristic of a load balancer?
     A. Scales
    
     B. Isolates failure
@@ -944,8 +949,10 @@ Answer: C
     C. Distributes ingress traffic to targets
    
     D. Provides intrusion prevention
+    
 Answer: C
-12. Which of the following options is common for load balancers across AWS, Azure, and GCP?
+
+13. Which of the following options is common for load balancers across AWS, Azure, and GCP?
     A. Layer 4
     
     B. Layer 1
@@ -953,8 +960,10 @@ Answer: C
     C. Code analysis
     
     D. Content delivery networks (CDNs)
+    
 Answer: A
-14. Site-to-site VPN is used in which of the common scenario options?
+
+15. Site-to-site VPN is used in which of the common scenario options?
     A. Public
     
     B. Hybrid
@@ -962,9 +971,10 @@ Answer: A
     C. VLAN
     
     D. None of these
+    
 Answer:B
 
-16. Which of the following is a known characteristic of cloud VPN gateways?
+17. Which of the following is a known characteristic of cloud VPN gateways?
     A. Single-tunnel
     
     B. Multi-tunnel
@@ -972,9 +982,10 @@ Answer:B
     C. Unlimited tunnels per gateway
     
     D. Default service-level agreement (SLA) 99.9999999999
+    
 Answer: B
 
-18. Which of the following cloud VPN configuration tools are supported across AWS, Azure, 
+19. Which of the following cloud VPN configuration tools are supported across AWS, Azure, 
     and GCP?
     A. Management portal
     
@@ -983,6 +994,7 @@ Answer: B
     C. CLI
     
     D. None of these
+    
 Answer: C
 
 ---------------------------------------------------
@@ -996,6 +1008,7 @@ Answer: C
     C. Scaling
    
     D. None of the above
+   
 Answer: C
 
 3. Which option is configurable during the EC2 launch configuration process?
@@ -1006,6 +1019,7 @@ Answer: C
     C. I/O port installation
    
     D. None of the above
+   
 Answer: A
 
 5. Microsoft Azure VM images and AMIs currently support which of the following (choose all 
@@ -1017,6 +1031,7 @@ Answer: A
     C. iOS
    
     D. Chromebooks
+   
 Answer:A, B
 
 7. Google Cloud Compute Engine supports which of the following options?
@@ -1027,12 +1042,15 @@ Answer:A, B
     C. iOS
    
     D. None of the above
+   
 Answer: A
+
 9. Does Amazon’s Elastic Beanstalk require administrators to manually implement EC2 instances 
     before creating an application environment?
     A. Yes
    
     B. No
+   
 Answer: B
 
 11. Does Azure App Service require administrators to manually implement the Docker container 
@@ -1041,6 +1059,7 @@ Answer: B
     A. Yes
     
     B. No
+    
 Answer: B
 
 13. Which of the following object-oriented programming (OOP) languages is supported by Google 
@@ -1052,6 +1071,7 @@ Answer: B
     C. JSON
     
     D. None of the above
+    
 Answer: A, B
 
 15. Which cloud computing provider supports Docker containers?
@@ -1062,6 +1082,7 @@ Answer: A, B
     C. GCP
     
     D. None of the above
+    
 Answer: A, B, C
 
 17. Traditional organizations have concerns with creating new VNets due to IP addressing constraints. 
@@ -1069,6 +1090,7 @@ Answer: A, B, C
     A. Yes
     
     B. No
+    
 Answer:A
 
 19. Which of the following options are recommended for accelerating EKS configuration and creation?
@@ -1079,6 +1101,7 @@ Answer:A
     C. CloudFormation
     
     D. ARM templates
+    
 Answer: C
 
 21. Which of the following options are recommended for version control with AKS configuration?
@@ -1089,6 +1112,7 @@ Answer: C
     C. ACR
     
     D. GKS
+    
 Answer:C
 
 23. GKE, AKS, and EKS support which of the following management options?
@@ -1099,6 +1123,7 @@ Answer:C
     C. Zonal
     
     D. None of the above
+    
 Answer:B
 
 25. Which of the following VM maintenance options are you responsible for with AWS, Azure, 
@@ -1110,6 +1135,7 @@ Answer:B
     C. Implementing the runtime environment
     
     D. None of the above
+    
 Answer:B
 
 27. Which of the following coincides with serverless resource types?
@@ -1120,6 +1146,7 @@ Answer:B
     C. On-premises
     
     D. HTML websites
+    
 Answer: A
 
 29. Which of the following are supported across AWS, Azure, and GCP functions?
@@ -1130,6 +1157,8 @@ Answer: A
     C. Bash shell
     
     D. None of the above
+    
 Answer: A
+
 ---------------------------------------------------
 # Chapter: Configuring Storage Resources for Resiliency
