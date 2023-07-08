@@ -1162,3 +1162,264 @@ Answer: A
 
 ---------------------------------------------------
 # Chapter: Configuring Storage Resources for Resiliency
+
+1. Which of the following options are optimized with object-level storage services?
+
+    A. Dynamic files
+   
+    B. Static files
+   
+    C. 1 KB attributes
+   
+    D. Metadata
+   
+Answer: B
+   
+3. Which of the following options are optimized by Amazon S3?
+
+    A. Block files
+   
+    B. NFS file shares
+   
+    C. Object-level attributes
+   
+    D. Item attributes
+
+Answer: C
+   
+5. Which of the following options are optimized by Azure Storage Blobs?
+
+    A. Object-level attributes
+   
+    B. Item attributes
+   
+    C. SMB file shares
+   
+    D. None of the above
+
+Answer: A
+   
+5. Which of the following options are optimized by Google Cloud Storage?
+
+    A. Item attributes
+   
+    B. PNG files
+   
+    C. Messages
+   
+    D. None of the above
+
+Answer: B
+   
+7. What is a bucket or container in cloud computing?
+
+    A. A legal hold
+   
+    B. Something that provides access control
+   
+    C. A location to store objects
+   
+    D. None of the above
+
+Answer: C
+   
+9. Amazon S3, Azure Storage Blobs, and Google Cloud Storage can support which of the following?
+
+    A. IoT device storage
+   
+    B. AI compute
+   
+    C. Machine learning compute
+   
+    D. Big data workloads
+
+Answer: D
+   
+8. Cloud object-level storage is categorized as which of the following?
+
+    A. SaaS
+   
+    B. Infrastructure
+   
+    C. IaaS
+   
+    D. PaaS
+
+Answer: D
+   
+10. Amazon EFS, Azure Files, and Google Cloud Filestore are categorized as which of the following?
+
+    A. Serverless
+    
+    B. Compute
+    
+    C. Virtual networks
+    
+    D. None of the above
+
+Answer: A
+    
+10. Connecting or mounting a cloud file share service is supported in which of the following scenarios?
+
+    A. On-premises
+    
+    B. Hybrid
+    
+    C. Hypervisor
+    
+    D. None of the above
+
+Answer: B
+    
+12. Which of the following commands are used to create and configure an Azure Storage Blob?
+
+    A. touch storageblob.blob
+    
+    B. aws efs
+    
+    C. gcloud beta filestore
+    
+    D. az storage account
+
+Answer: D
+    
+12. Which of the following resembles an event?
+
+    A. Inbound traffic
+    
+    B. Continuously running program
+    
+    C. Change in state
+    
+    D. None of the above
+
+Answer: C
+    
+14. Which of the following services are supported by native targets for cloud EventBridge, Event 
+Grid, and Evantarc services?
+
+    A. Serverless
+    
+    B. SaaS
+    
+    C. On-premises
+    
+    D. None of the above
+
+Answer: A
+    
+14. Which of the following options are optimized using cloud EventBridge, Event Grid, and Eventarc?
+
+    A. Events
+    
+    B. Raw data messages
+    
+    C. Item attributes
+    
+    D. Large files
+
+Answer: A
+    
+16. Which of the following options is best suited for cloud queue-like services?
+
+    A. Large files
+    
+    B. Inbound traffic
+    
+    C. IP addresses
+    
+    D. Messages
+
+Answer: D
+
+-----------------------------------------------------
+# Chapter: Utilizing Database Service Resources for Agility
+
+1. What is an RDS?
+   
+    A. An analytical database service
+   
+    B. NoSQL
+   
+    C. A relational database service
+   
+    D. None of the above
+
+Answer: C
+   
+2. Which of the following data formats is optimized by RDSs?
+
+    A. HTML
+   
+    B. Python
+   
+    C. JSON
+   
+    D. Tabular
+
+Answer: D
+   
+3. Say you’re working with a small table of data in one location, but you need to support a managed 
+highly available service. What would you use?
+
+    A. Azure Cosmos DB
+   
+    B. Google Cloud SQL
+   
+    C. AWS Lake Formation
+   
+    D. None of the above
+
+Answer: B
+   
+4. Which of the following best categorizes cloud-native managed RDSs?
+
+    A. IaaS
+   
+    B. SaaS
+   
+    C. PaaS
+   
+    D. On-demand instances
+
+Answer: C
+   
+5. Which of the following best categorizes non-relational database management services?
+
+    A. NoSQL
+   
+    B. SQL
+   
+    C. RDBMS
+   
+    D. No local secondary indexes
+
+Answer: A
+
+6. What data format can be optimized with DynamoDB, Cosmos DB, and Cloud Firestore?
+
+    A. Large unstructured media files
+   
+    B. JSON
+   
+    C. JavaScript
+   
+    D. Java
+
+Answer: B
+
+7. Multimedia and social media text communication formats from Instagram, Twitter, and Snapchat 
+are best serviced by using which of the following database services?
+
+    A. Amazon EBS, Azure Managed Disks, Google Cloud Persistent Disk
+   
+    B. Amazon Aurora, Azure SQL, Google Cloud SQL
+   
+    C. Python, .NET, Go
+   
+    D. Amazon DynamoDB, Azure Cosmos DB, Google Cloud Firestore
+
+Answer: D
+
+
+    
