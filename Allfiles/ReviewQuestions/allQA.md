@@ -1421,5 +1421,191 @@ are best serviced by using which of the following database services?
 
 Answer: D
 
+-----------------------------------------------------
+# Chapter: Building Data Warehouse Services for Scalability
+
+1. What is commonly stored in a data warehouse?
+
+    A. Pictures
+   
+    B. Unstructured data
+   
+    C. Historical data
+   
+    D. Frequently accessed IoT telemetry logs
+   
+   Answer: C
+   
+3. Which of the following options are supported with cloud data warehouse services such as AWS 
+Lake Formation, Azure Data Lake, and Google Cloud BigQuery BigLake tables?
+
+   A. OLTP
+   
+    B. OLAP
+   
+    C. Archival
+   
+    D. None of the above
+
+   Answer: B
+   
+5. What does BI stand for?
+
+   A. Business intermediary
+   
+    B. Better information
+   
+    C. Business intelligence
+   
+    D. None of the above
+
+   Answer: C
+   
+7. Which delimiter is supported in CSV files?
+
+   A. |
+   
+    B. /
+   
+    C. \
+   
+    D. ,
+
+   Answer: D
+   
+9. You can manage Azure dedicated SQL pool database table clusters.
+
+   A. True
+   
+    B. False
+
+   Answer: A
+   
+11. In a SQL select statement, what does the FROM clause refer to?
+
+     A. The database connection
+    
+    B. The partition
+    
+    C. The table
+    
+    D. The namespace
+
+    Answer: C
+
+-----------------------------------------------------
+# Chapter: Implementing Native Cyber Security Controls
+
+1. Which of the following is a security strategy?
+
+    A. NIST
+   
+    B. SSH
+   
+    C. Defense in depth
+   
+    D. The HIPAA
+
+   Answer: C
+   
+3. Which of the following is an example of compliance?
+
+    A. The ARPA
+   
+    B. The HIPAA
+   
+    C. Defense in depth
+   
+    D. None of the above
+
+   Answer: B
+   
+5. Which of the following options do EBS volumes use to secure data at rest?
+
+    A. Key Vault
+   
+    B. KMS
+   
+    C. SSH
+   
+    D. None of the above
+
+   Answer: B
+   
+7. Which of the following options do managed disks use to secure data at rest?
+
+    A. KMS
+   
+    B. RDP
+   
+    C. SSH
+   
+    D. Key Vault
+
+   Answer: D
+   
+9. Does a Google Cloud boot disk natively secure data at rest?
+
+    A. Yes
+   
+    B. No
+
+   Answer: A
+   
+11. Which of the following options can be configured to secure data in transit for EB, Azure App 
+Service, and App Engine web applications?
+
+    A. REST
+    
+    B. HTTP
+    
+    C. A load balancer
+    
+    D. Certificates
+
+    Answer: D
+    
+13. What options are available to support backup and restore scenarios to protect volume data?
+
+    A. Regional replication
+    
+    B. Immutability
+    
+    C. Snapshots
+    
+    D. Live migration
+
+    Answer: C
+    
+15. Which of the following cloud virtual network security controls are natively supported across 
+AWS, Azure, and GCP?
+
+    A. NSGs
+    
+    B. VLANs
+    
+    C. IDS
+    
+    D. None of the above
+
+    Answer: A
+    
+17. Which of the following services is managed using MFA?
+
+    A. Authorization
+    
+    B. Compliance policies
+    
+    C. CIA
+    
+    D. Authentication
+
+    Answer: D
+
+-----------------------------------------------------
+# Chapter: Managing API Tools for Agility
+
+
+    
 
     
