@@ -1618,7 +1618,7 @@ D. Cloud CLIs have unique commands and syntax
 
     Answer: D
 
-3. Which of the following options runs the AWS, Azure, and GCP cloud shells?
+2. Which of the following options runs the AWS, Azure, and GCP cloud shells?
 
 A. Browser
 
@@ -1630,7 +1630,7 @@ D. Linux KVM
 
     Answer: A
 
-5. Which of the following IaC template file types are supported across AWS, Azure, and GCP? 
+3. Which of the following IaC template file types are supported across AWS, Azure, and GCP? 
 (Choose all that apply.)
 
 A. JSON
@@ -1642,7 +1642,7 @@ C. JavaScript
 D. Go
 
     Answer: A, B
-
+    
 4. Which of the following are available across multi-cloud to deploy IaC templates?
 
 A. CLI
@@ -1666,6 +1666,4 @@ C. Software developer kit
 D. Source data kit
 
     Answer: C
-    
-
     
