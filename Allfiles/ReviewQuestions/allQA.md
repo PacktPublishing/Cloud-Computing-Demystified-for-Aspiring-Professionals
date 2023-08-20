@@ -1605,7 +1605,65 @@ AWS, Azure, and GCP?
 -----------------------------------------------------
 # Chapter: Managing API Tools for Agility
 
+1. Which of the following command-line languages is common to the AWS CLI, the Azure CLI, 
+and the GCP CLI?
 
+A. SSH
+
+B. PowerShell
+
+C. Bash shell
+
+D. Cloud CLIs have unique commands and syntax
+
+    Answer: D
+
+3. Which of the following options runs the AWS, Azure, and GCP cloud shells?
+
+A. Browser
+
+B. On-premises
+
+C. Private cloud
+
+D. Linux KVM
+
+    Answer: A
+
+5. Which of the following IaC template file types are supported across AWS, Azure, and GCP? 
+(Choose all that apply.)
+
+A. JSON
+
+B. YAML
+
+C. JavaScript
+
+D. Go
+
+    Answer: A, B
     
+4. Which of the following are available across multi-cloud to deploy IaC templates?
 
+A. CLI
+
+B. Bash shell
+
+C. CISCO router
+
+D. Internet gateway
+
+    Answer: A
+
+6. What is an SDK?
+
+A. Storage developer kit
+
+B. Storage data kit
+
+C. Software developer kit
+
+D. Source data kit
+
+    Answer: C
     
